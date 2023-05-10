@@ -1,0 +1,6 @@
+﻿l_german:
+ inspiration_type_desc_present:0 "[ROOT.Char.Custom('DE_PRO_PER_S_3P_N')|U] [ROOT.Char.Custom('InspirationTypeDescription')]"
+ legendary_inspiration_skill:0 "[Character.Custom('DE_PRO_POS_S_3P')|U] Können ist legendär und berühmt in der ganzen Welt."
+ INSPIRATION_GENERAL_TOOLTIP:2 "[SelectLocalization(StringIsEmpty(Inspiration.GetCompletionEffect), '', 'INSPIRATION_GENERAL_TOOLTIP_EFFECT')]#S Fortschritt:#! [Inspiration.GetProgress|V]/[GetDefine('NInspiration', 'MAX_PROGRESS')|V]\n#S Investiertes [gold|E]:#! @gold_icon! [Inspiration.GetInvestedGold|V]\n#S Geförderter:#! [Inspiration.GetOwner.GetUIName]\n#S Gönner:#! [SelectLocalization(Inspiration.GetSponsor.IsValid, 'INSPIRATION_GENERAL_TOOLTIP_SPONSOR', 'INSPIRATION_GENERAL_TOOLTIP_NO_SPONSOR')]\n\n#F [Inspiration.GetDescription]#!"
+ INSPIRATION_GENERAL_TOOLTIP_SPONSOR:0 "[Select_CString(Inspiration.GetSponsor.IsLocalPlayer, 'Ihr', Inspiration.GetSponsor.GetUIName)|U]"
+ INSPIRATION_GENERAL_TOOLTIP_NO_SPONSOR:0 "Keiner"

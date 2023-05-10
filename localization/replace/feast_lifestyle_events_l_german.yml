@@ -1,0 +1,2 @@
+﻿l_german:
+ feast_lifestyle.2002.desc_ending:0 "\n\nNachdem wir jede Menge getrunken haben, lehnt sich mein[guest_with_secret.Custom('DE_END_PRO_S_N')] [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('guest_with_secret'))] [guest_with_secret.GetTitledFirstName] an unseren Tisch und schüttet sowohl [guest_with_secret.Custom('DE_PRO_POS_S_3P')] Herz aus als auch [guest_with_secret.Custom('DE_PRO_POS_S_3P')] Getränk vor mich.\n\n„So viel zu trinken habt Ihr mir gebracht und mir auch ein offenes Ohr geschenkt … Danke, [ROOT.Char.GetFirstNameNoTooltip]!“"

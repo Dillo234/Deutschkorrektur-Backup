@@ -1,0 +1,6 @@
+﻿l_german:
+ PROPOSE_BEST_FRIENDSHIP_NOTIFICATION:0 "[recipient.GetFirstNameNoTooltip], mein[recipient.Custom('DE_END_PRO_S_N')] [recipient.Custom('SisterBrother')], mein[recipient.Custom('DE_END_PRO_S_N')] Gefährt[recipient.Custom('DE_END_NOU_S_GS_N')], meine Vertrauensperson – werdet Ihr Euch mir anschließen und verkünden, dass unsere Freundschaft die wahrste und strahlendste in der ganzen Welt ist? Mit aller geschuldeten Treue, die damit einhergeht?"
+ culture_parameter_may_select_friendship_synergy_bonus:1 "[best_friends|E] können eine Interaktion nutzen, um über [modifiers|E] Bonus-[skills|E] zu erhalten, wobei sie zusätzliche [stress|E] erleiden."
+ challenge_to_2p_chess_interaction.decline.actor.tt:1 "[recipient.GetTitledFirstName] hat Besseres zu tun"
+ challenge_to_2p_chess_interaction.decline.recipient.tt:1 "[actor.GetTitledFirstName] ist meinetwegen aufgebracht"
+ challenge_to_2p_chess_interaction.accept.game_commences.tt:1 "Eine Partie [actor.Custom('BG_GameType_Concept')] beginnt sofort"

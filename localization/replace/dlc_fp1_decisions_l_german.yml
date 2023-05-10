@@ -1,0 +1,6 @@
+﻿l_german:
+ raise_stele_decision_desc:0 "Die [GetPlayer.GetCulture.GetCollectiveNounNoTooltip] pflegen die Gewohnheit, behauene Monumente zu errichten, um an wichtige Ereignisse zu erinnern. Der Tod eines lieben Menschen, die Beilegung eines Zwists, der Erwerb von Ländereien und so weiter. Vielleicht könnte ich Gewinn aus einem solchen Stein ziehen …"
+ secure_high_kingdom_north_sea_decision_tooltip:1 "Bindet $k_england$, $k_denmark$ und $k_norway$ in ein [Concept('de_jure', 'De-jure')|E]-[realm|E] ein"
+ secure_high_kingdom_north_sea_decision_solve_danelaw:0 "Das $k_danelaw$ hat derzeit [Concept('de_jure', 'De-jure')|E]-[counties|E] und die Teilung von $k_england$ muss erst aufgehoben werden."
+ elevate_mann_and_the_isles_decision_desc:0 "Die $c_isle_of_man$ ist von ihrer einzigartigen Lage her bestens dazu geeignet, als Hafen und Zufluchtsort für die Plünderer der Nordmannen zu dienen, denn sie bietet leichten Zugang nicht nur zu den Britischen Inseln, sondern zu ganz Westeuropa.\n\nEs braucht nur jemanden, der all den guten Wikingern den Weg aufzeigt, wie man dieses Potenzial ausschöpft und die Insel mit Gold und Eisen pflastert!"
+ fp1_valid_norse_faith_for_jomsvikings_trigger_tt:0 "[THIS.Char.GetFaith.GetName] ist Teil einer [GetReligionByKey('germanic_religion').GetAdjective|l]en [religion|E] und unreformiert"

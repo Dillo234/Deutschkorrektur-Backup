@@ -1,0 +1,5 @@
+﻿l_german:
+ IS_HELD_BY:0 "Ist im Besitz von [Select_CString(TARGET_CHARACTER.IsLocalPlayer, 'Euch', TARGET_CHARACTER.GetShortUIName)]"
+ NOT_IS_HELD_BY:0 "Ist #bold nicht#! im Besitz von [Select_CString(TARGET_CHARACTER.IsLocalPlayer, 'Euch', TARGET_CHARACTER.GetShortUIName)]"
+ TITLE_IS_HELD_BY:0 "[TITLE.GetName] ist im Besitz von [Select_CString(TARGET_CHARACTER.IsLocalPlayer, 'Euch', TARGET_CHARACTER.GetShortUIName)]"
+ NOT_TITLE_IS_HELD_BY:0 "[TITLE.GetName] ist #bold nicht#! im Besitz von [Select_CString(TARGET_CHARACTER.IsLocalPlayer, 'Euch', TARGET_CHARACTER.GetShortUIName)]"

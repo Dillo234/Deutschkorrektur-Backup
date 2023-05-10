@@ -1,0 +1,6 @@
+﻿l_german:
+ intrigue_dread.4002.c.compassionate.tt:0 "Warnung: Da ich vorwiegend mitfühlend bin, wird dieser Weg meine [stress|E] enorm erhöhen."
+ intrigue_dread.4002.d:0 "Ich habe es mir anders überlegt. [victim.Custom('DE_PRO_PER_S_3P_N')|U] ist hierfür nicht geeignet …"
+ intrigue_dread.4008.desc.lunatic:0 "\n\nLeider war der Widerspruch zwischen meinem Einwirken und der Wirklichkeit [victim.Custom('DE_PRO_POS_S_3P')]es neuen Lebens wohl zu viel für [victim.Custom('DE_PRO_PER_S_3P_A')], und [victim.Custom('DE_PRO_PER_S_3P_N')] hat endgültig den Verstand verloren."
+ intrigue_dread.4013.desc:0 "Offenbar war meine Zuwendung zu viel für [victim.GetTitledFirstName]: [victim.Custom('DE_PRO_PER_S_3P_N')|U] ist in meinem Kerker verstorben.\n\nNun kann ich mein Meisterwerk nicht vollenden, solange ich keine andere angemessen inspirierende Leinwand finde, und wer weiß, wie lange so etwas dauern kann …"
+ intrigue_dread.4200.desc.noble_forest:2 "Der Kerker ist bis zum Rand mit Rivalen, Verrätern und gewöhnlichen Verbrechern gefüllt. Vielleicht ist es an der Zeit, dass ich ihnen ein Ende bereite und sie dabei [ROOT.Char.GetPrimaryTitle.GetAdjectiveNoTooltip|l]en Interessen dienen!"

@@ -1,0 +1,2 @@
+﻿l_german:
+ vassal_interaction.war_ender_gives_up:1 "Auf [Select_CString(actor.IsLocalPlayer, 'Euren ', '')]Befehl[Select_CString(actor.IsLocalPlayer, '', ' von ')][Select_CString(actor.IsLocalPlayer, '', actor.GetShortUIName)] hat [recipient.GetShortUIName] [recipient.Custom('DE_PRO_POS_S_3P')]en Krieg aufgegeben"

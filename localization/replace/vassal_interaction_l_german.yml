@@ -1,0 +1,4 @@
+﻿l_german:
+ RETRACT_VASSAL_SELECT_VASSAL_TO_RETRACT:0 "[Concept('vassal', 'Vasallen')|E] fürs Entziehen auswählen"
+ arrange_marriage_interaction_extra_icon:0 "@weak_hook_icon!Ihr könnt Euer [hook|E] nutzen, um die Person zum Einwilligen zu zwingen"
+ pardon_interaction_desc:1 "Ihr betrachtet [recipient.GetName] als [criminal|E] ([recipient.GetImprisonmentReasons(actor.Self)]), was es Euch erlaubt, [recipient.Custom('DE_PRO_PER_S_3P_A')] jederzeit [Concept('imprison', 'Einzukerkern')|E], ohne [tyranny|E] hinzuzugewinnen.\n\nFalls Ihr es vorzieht, dass [recipient.Custom('DE_PRO_PER_S_3P_N')] auf freiem Fuß bleibt, könnt Ihr Euch dafür entscheiden, [recipient.Custom('DE_PRO_PER_S_3P_A')] zu begnadigen. Dies wird sämtliche Gründe für eine [Concept('imprisonment', 'Einkerkerung')|E] durch Euch aufheben und [recipient.Custom('DE_PRO_POS_S_3P')]e [opinion|E] von Euch verbessern."

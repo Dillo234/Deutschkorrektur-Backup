@@ -1,0 +1,5 @@
+﻿l_german:
+
+ reactive_advice_royal_court:0 "$reactive_advice_royal_court_step_1$"
+ reactive_advice_royal_court_step_1:0 "Königshof"
+ reactive_advice_fund_inspiration:0 "Inspirationen finanzieren"

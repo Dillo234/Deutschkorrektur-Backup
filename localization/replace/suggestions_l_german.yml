@@ -1,0 +1,2 @@
+﻿l_german:
+ suggestion_grant_title_desc:0 "[recipient.GetShortUIName] ist der [Concept('de_jure', 'De-jure')|E]-Träger des Titels [landed_title.GetName]. Dafür zu sorgen, dass sich Euer Reich so eng wie möglich an die De-jure-Struktur hält, führt zu mehr Stabilität und weniger Meinungsabzügen."

@@ -1,0 +1,11 @@
+﻿l_german:
+ THEOCRACY_LESSEE_APPROVAL_ENDORSE:3 "#T Euer [realm_priest|E] unterstützt Euch#!\n[taxes|E]: [gold_i][TARGET_CHARACTER.GetIncomeFromTheocraticLease|1+=]/Monat (von möglichen [gold_i][TARGET_CHARACTER.GetMaxIncomeFromTheocraticLease|1+=]/Monat)\n[levies|E]: [soldier_i][TARGET_CHARACTER.GetLeviesFromTheocraticLease|V] (von möglichen [soldier_i][TARGET_CHARACTER.GetMaxLeviesFromTheocraticLease|V])\n\nWegen $REASON$ erhaltet Ihr Steuern und Aufgebote von [CHARACTER.Custom('DE_PRO_POS_S_3P')]en [Concept('church_property', 'Kirchenbesitztümern')|E]"
+ CV_COURTIER_STAY_REASON:0 "beispielsweise eine Anstellung als $knight_culture_player$ oder als [councillor|E][SelectLocalization(And(HasDlcFeature('inspirations'), CHARACTER.HasInspiration), 'CV_COURTIER_SPONSOR_INSPIRATION', '')]"
+ THEOCRATIC_LEASE_BREAKDOWN_NOT_ENDORSED:0 "@warning_icon!#X [CHARACTER.GetShortUINameNoTooltip] fördert [Select_CString(TARGET_CHARACTER.IsLocalPlayer, 'Euch', TARGET_CHARACTER.GetShortUIName)] nicht#!"
+ CV_COURTIER_WANTS_TO_LEAVE_COURT:2 "[CHARACTER.GetShortUINameNoTooltip] könnte den [court|E] von [Select_CString(TARGET_CHARACTER.IsLocalPlayer, 'Euch', TARGET_CHARACTER.GetShortUIName)] verlassen. [CHARACTER.Custom('DE_PRO_PER_S_3P_N')|U] bleibt, wenn es einen Grund gibt, $CV_COURTIER_STAY_REASON$."
+ CV_COURTIER_WILL_LEAVE_COURT:2 "[CHARACTER.GetShortUINameNoTooltip] wird den [court|E] von [Select_CString(TARGET_CHARACTER.IsLocalPlayer, 'Euch', TARGET_CHARACTER.GetShortUIName)] bald verlassen. [CHARACTER.Custom('DE_PRO_PER_S_3P_N')|U] bleibt nur, wenn es einen Grund gibt, $CV_COURTIER_STAY_REASON$."
+ BETROTHED:0 "[Concept('betrothed', 'Verlobte/r')|E]"
+ HEALTH_POOR_DESC:0 "[CHARACTER.GetShortUIName|U] ist gesundheitlich angeschlagen"
+ HEALTH_POOR_DESC_ME:1 "Ihr seid gesundheitlich angeschlagen"
+ FORMER_SPOUSE:0 "Einstiger [spouse|E]"
+ THEOCRACY_LESSEE_APPROVAL_NO_ENDORSE:2 "#T Euer [realm_priest|E] unterstützt Euch #emphasis nicht#!#!\n#weak $NO_EFFECTS$#!\n\nIhr erhaltet keine Steuern und Aufgebote von [CHARACTER.Custom('DE_PRO_POS_S_3P')]en [Concept('church_property', 'Kirchenbesitztümern')|E]. Grund: $REASON$."

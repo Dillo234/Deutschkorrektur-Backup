@@ -1,0 +1,3 @@
+﻿l_german:
+ hunt.4001.desc_1:0 "Es ist schon majestätisch, wie [ROOT.Char.Custom('LocalAnimal_DE_Plural')] so über die Landschaft blicken. Von hinter den Büschen ziele ich mit dem Bogen auf meine Beute.\n\nMein[hunt_guest.Custom('DE_END_PRO_S_N')] [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('hunt_guest'))] [hunt_guest.GetTitledFirstName] erwidert den Blick, den ich [hunt_guest.Custom('DE_PRO_PER_S_3P_D')] lautlos zuwerfe."
+ hunt.4005.b:0 "Ich werde daraus eine Trophäe fertigen lassen, für mein[trophy_recipient.Custom('DE_END_PRO_S_A')] [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('trophy_recipient'))]."

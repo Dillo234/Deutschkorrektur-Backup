@@ -1,0 +1,4 @@
+﻿l_german:
+ HOLDING_TT_LEASED:0 "[lessee|E]: [Select_CString(Holding.GetProvince.GetTitle.GetLessee.IsLocalPlayer, 'Ihr', Holding.GetProvince.GetTitle.GetLessee.GetUIName)]"
+ HOLDING_TT_HOLDER:1 "[holder|E]: [Select_CString(Holding.GetProvince.GetTitle.GetHolder.IsLocalPlayer, 'Ihr', Holding.GetProvince.GetTitle.GetHolder.GetUIName)]"
+ HOLDING_TT_EMPTY:0 "Kein Besitztum\nKontrolliert von: [Select_CString(Holding.GetProvince.GetTitle.GetDeJureLiege.GetHolder.IsLocalPlayer, 'Euch', Holding.GetProvince.GetTitle.GetDeJureLiege.GetHolder.GetUIName)]"

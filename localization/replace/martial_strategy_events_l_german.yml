@@ -1,0 +1,2 @@
+﻿l_german:
+ martial_strategy_special.1405.desc:1 "Als ich durch ein kleines Dorf komme, fällt mir auf, dass die Wachen in einfache Gewänder gehüllt sind, jedoch Waffen mit meinem Siegel tragen!\n\nAuf der Straße begrüßt mich [zealot.GetTitledFirstName], selbsternannt[zealot.Custom('DE_END_ADJ_NUL_S_N')] „himmlisch[zealot.Custom('DE_END_ADJ_NUL_S_N')] Wächter[zealot.Custom('DE_END_NOU_S_GS_N')] des Dorfes“. Meine Soldaten haben ihre Rüstung abgelegt, um mit [zealot.Custom('DE_PRO_PER_S_3P_D')] [zealot.GetFaith.HighGodName] zu huldigen!"

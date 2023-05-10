@@ -1,0 +1,4 @@
+﻿l_german:
+ INCOMPATIBLE_TENET_OTHER_SYNCRETISM_TRIGGER:0 "Ihr könnt nur einen synkretistischen [core_tenet|E] für Euren [Concept('faith', 'Glauben')|E] auswählen."
+ INCOMPATIBLE_WITH_ALL_CRIMINAL_DOCTRINES:0 "Unvereinbar mit allen [doctrines|E], die bestimmte Handlungen als [Concept('criminal', 'Verbrechen')|E] erachten"
+ ADULTERY_MUST_BE_FULLY_ACCEPTED:0 "Unvereinbar mit allen [Concept('doctrine', 'Doktrinen')|E], die Ehebruch als [shunned|E] oder [Concept('criminal', 'Verbrechen')|E] erachten"

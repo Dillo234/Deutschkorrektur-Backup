@@ -1,0 +1,6 @@
+﻿l_german:
+ individual_county_de_jure_cb:0 "[Concept('de_jure', 'De-jure')|E]-[county|E] (Individuell)"
+ individual_duchy_de_jure_cb:0 "[Concept('de_jure', 'De-jure')|E]-[duchy|E] (Individuell)"
+ students_of_knighthood:0 "Kinder, die ihre Ausbildung mit einem [Concept('martial', 'Kriegsführungs')|E]-[education_focus|E] abschließen, erhalten eine „$trait_education_martial_prowess$“-[trait|E]"
+ innovation_mangonel:0 "Mangonelen"
+ innovation_mangonel_desc:0 "Als bedeutende Verbesserung unserer bereits existierenden Katapultentwürfe ist das Laden und Schießen mit den traktionsbetriebenen Mangonelen wesentlich schneller als bei torsionsbetriebenen Maschinen."

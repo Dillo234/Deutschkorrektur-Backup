@@ -1,0 +1,5 @@
+﻿l_german:
+ tooltip_gaelic_vote_strength_current_dynast:0 "Derzeitiges [dynast|E]: $VALUE|=+0$"
+ tooltip_imperial_vote_strength_emperor_child:0 "Das Wort eines Kindes zählt nur wenig: $VALUE|=+0$"
+ tooltip_imperial_vote_strength_emperor_child_roman:0 "Das Wort eines Kindes zählt nichts: $VALUE|=+0$"
+ tooltip_scandinavian_elective_capital_development:0 "Hauptsitz-[county_development|E]: $VALUE|=+0$"

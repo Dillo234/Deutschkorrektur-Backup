@@ -1,0 +1,4 @@
+﻿l_german:
+ prison.1002.rats.desc:0 "Die Ratten im Eimer sind im ersten Augenblick noch scheu, doch wenn man etwas Hitze hinzugibt, nagen sie sich bereitwillig durch jede Brust und jeden Muskel. Während ich [recipient.GetTitledFirstName] das Konzept erkläre, schwindet [recipient.Custom('DE_PRO_POS_S_3P')]e Entschlossenheit vor meinen Augen dahin."
+ prison.9002.desc_cockroach:0 " – Ich lasse meine Kakerlake frei, und als sie unter [dummy_gender.Custom('DE_ART_DEF_S_D')] Wärter[dummy_gender.Custom('DE_END_NOU_S_GS_N')] herumkrabbelt, zuckt dies[dummy_gender.Custom('DE_END_ADJ_IND_S_N')] so heftig zurück, dass [dummy_gender.Custom('DE_PRO_PER_S_3P_N')] sich [dummy_gender.Custom('DE_PRO_POS_S_3P')]en Schädel an der Wand einschlägt"
+ prison.9504.t:0 "Mein[fellow_prisoner.Custom('DE_END_PRO_S_N')] Mitgefangen[fellow_prisoner.Custom('DE_END_PRO_S_N')]"

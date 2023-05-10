@@ -1,0 +1,9 @@
+﻿l_german:
+ MAPMODE_RELIGIONS:0 "#T Glaube\n#!Zeigt den [Concept('faith', 'Glauben')|E] aller [counties|E] auf der Karte an.\nIn gestreiften Gebieten unterscheidet sich der [faith|E] der Gemeinde von dem des [Concept('top_liege', 'Obersten Lehnsherrn')|E].\nWird ein Glaube ausgewählt, werden seine [Concept('holy_sites', 'Heiligen Stätten')|E] angezeigt."
+ MAPMODE_HOUSES:0 "#T Häuser\n#!Zeigt die [houses|E] aller [Concept('independent_ruler', 'Unabhängigen Herrscher')|E] auf der Karte an."
+ CHANGE_GAME_SPEED_ONLY_HOST:0 "@warning_icon!#X Nur der Host kann das Spieltempo ändern#!"
+ DEVELOPMENT_HEADER:0 "Modus: Gemeinde-[development|E]"
+ DE_JURE_HIERARCHY:0 "[Concept('de_jure', 'De-jure')|E]-Hierarchie"
+ MAPMODE_DJ_EMPIRES:0 "#T Großreiche-Titel\n#!Zeigt [empire|E]-[titles|E] und deren [Concept('de_jure', 'De-jure')|E]-Ländereien auf der Karte an."
+ MAPMODE_DJ_KINGDOMS:0 "#T Königreiche-Titel\n#!Zeigt [kingdom|E]-[titles|E] und deren [Concept('de_jure', 'De-jure')|E]-Ländereien auf der Karte an."
+ MAPMODE_DJ_DUCHIES:0 "#T Herzogtümer-Titel\n#!Zeigt [duchy|E]-[titles|E] und deren [Concept('de_jure', 'De-jure')|E]-Ländereien auf der Karte an."

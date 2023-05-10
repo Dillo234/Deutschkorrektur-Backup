@@ -1,0 +1,3 @@
+﻿l_german:
+ BATTLES_WAR_SCORE_CAPPED:0 "Max!"
+ WAR_OVERVIEW_STARTED:1 "Seit Kriegsbeginn: [WarOverviewWindow.GetWarDuration]"

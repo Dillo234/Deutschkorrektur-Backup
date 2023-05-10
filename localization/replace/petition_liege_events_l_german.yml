@@ -1,0 +1,4 @@
+﻿l_german:
+ petition_liege.0201.desc.intro:0 "Ich werde in den Thronsaal von [petition_liege.GetTitledFirstName] eskortiert, wo [petition_liege.Custom('DE_PRO_PER_S_3P_N')] mir bedeutet, mich [petition_liege.Custom('DE_PRO_PER_S_3P_D')] zu nähern und [petition_liege.Custom('DE_PRO_PER_S_3P_A')] anzusprechen."
+ petition_liege.0201.desc.council_seat:0 "\n\nIch lege meine Fähigkeiten dar – sowohl die bereits unter Beweis gestellten als auch alle anderen –, die mich zu einem geeigneten Kandidaten machen, der neue [petition_vassal.Custom('GetCouncilPositionRequest')] zu sein, und erbitte so einen Posten als [petition_liege.Custom('DE_PRO_POS_S_3P')] Berater."
+ petition_liege.0201.desc.fortify_border:0 "\n\nKühl skizziere ich die Bedrohung, die die Nachbarn des Reichs darstellen, und lenke so die Aufmerksamkeit auf [second_party.GetPrimaryTitle.GetName] und die Gefahren für meine Ländereien."

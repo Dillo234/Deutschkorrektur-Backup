@@ -1,0 +1,8 @@
+﻿l_german:
+ REFORM_FAITH_WINDOW_TITLE_TOOLTIP:0 "#T $REFORM_FAITH_WINDOW_TITLE$#!\nReformiert den [GetPlayer.GetFaith.GetAdjectiveNoTooltip|l]en [Concept('faith', 'Glauben')|E], indem Ihr [core_tenets|E] und [doctrines|E] auswählt"
+ FAITH_WINDOW_FAITH_NAME_TOOLTIP:0 "Gebt einen Namen für Euren neuen [Concept('faith', 'Glauben')|E] und seine Anhänger ein"
+ RELIGIOUS_HEAD_SPIRITUAL_HEAD:0 "[Concept('head_of_faith_spiritual', 'Klerikales')|E] [head_of_faith|E]#E :#!"
+ RELIGIOUS_HEAD_TEMPORAL_HEAD:0 "[Concept('head_of_faith_temporal', 'Weltliches')|E] [head_of_faith|E]#E :#!"
+ FAITH_TOOLTIP_HEAD_OF_FAITH:0 "[head_of_faith|E]: [Select_CString(Faith.GetReligiousHead.IsLocalPlayer, 'Ihr', Faith.GetReligiousHead.GetUIName)|U]"
+ FAITH_TOOLTIP_DOCTRINE_HEAD_OF_FAITH:0 "[head_of_faith|E]: [Select_CString(Faith.GetReligiousHead.IsLocalPlayer, 'Ihr', Faith.GetReligiousHead.GetShortUIName)|U]"
+ FAITH_HOLY_SITE_HOLDER_TOOLTIP:0 "#T [Character.GetPrimaryTitle.GetNameNoTooltip]\n#![ruler|E]: [Select_CString(Character.IsLocalPlayer, 'Ihr', Character.GetUIName)]\n[faith|E]: [Character.GetFaith.GetName]\n\n[Select_CString(GuiHolySiteItem.IsHeldByFaith, '#same ', '#weak ')]Da der Halter von [HolySite.GetName] [Select_CString(GuiHolySiteItem.IsHeldByFaith, '', 'nicht ')][Character.GetFaith.GetAdjectiveNoTooltip|l] ist, wird sie [Faith.GetAdjectiveNoTooltip|l]en Charakteren [Select_CString( GuiHolySiteItem.IsHeldByFaith, 'einen ', 'keinen ')]Bonus gewähren#!\n\n#I Zum Anzeigen klicken#!"

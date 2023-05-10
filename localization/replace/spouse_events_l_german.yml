@@ -1,0 +1,3 @@
+﻿l_german:
+ spouse.0004.desc:0 "Es gibt so viele Menschen am Hof, mit denen [first_spouse.Custom('DE_PRO_PER_S_3P_N')] Zeit verbringen könnte, und doch verbringt mein[first_spouse.Custom('DE_END_PRO_S_N')] [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('first_spouse'))] [first_spouse.GetFirstName] so viel wie nur möglich davon mit mir.\n\n[first_spouse.Custom('DE_PRO_PER_S_3P_N')|U] findet wahrlich Freude an den Dingen, die wir gemeinsam unternehmen!"
+ spouse.2001.a:1 "Niemand sonst bringt mich zum Lächeln wie mein[spouse.Custom('DE_END_PRO_S_N')] lieb[spouse.Custom('DE_END_ADJ_NUL_S_N')] [spouse.GetFirstName]."

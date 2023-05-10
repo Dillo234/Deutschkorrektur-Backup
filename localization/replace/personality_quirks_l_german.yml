@@ -1,0 +1,6 @@
+﻿l_german:
+ gluttonous_quirk:0 "isst einen Bissen [ROOT.GetCharacter.Custom('GetSmallFood')]"
+ gluttonous_quirk_personal:0 "esse einen Bissen [ROOT.GetCharacter.Custom('GetSmallFood')]"
+ gluttonous_quirk_standalone:0 "[ROOT.GetCharacter.GetSheHe|U] isst einen Bissen [ROOT.GetCharacter.Custom('GetSmallFood')]"
+ gluttonous_quirk_pp:0 "einen Bissen [ROOT.GetCharacter.Custom('GetSmallFood')] essend"
+ gluttonous_quirk_personal_pp:0 "einen Bissen [ROOT.GetCharacter.Custom('GetSmallFood')] essend"

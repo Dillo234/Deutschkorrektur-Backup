@@ -1,0 +1,24 @@
+﻿l_german:
+ court_ongoing.court_start_poem_love_letter.0502.desc:0 "[owner.Custom2('love_letter', SCOPE.sC('target'))|U]\n\nDiese Zeilen sind nur ein schwacher Ausdruck meiner Gefühle für Euch. Ich werde alles tun, um meine ergebene Zuneigung zu beweisen."
+ court_ongoing.court_start_poem_love_letter.intro.0503.desc:0 "Die Kerze ist fast abgebrannt, als ich mein Gedicht vollende. Bevor ich es abschicke, lese ich es mir noch einmal durch.\n\n„[owner.Custom2('love_letter', SCOPE.sC('target'))|U]“"
+ court_ongoing.1111.b.duel_success:0 "Kindische Zankereien beeindrucken mich nicht im #EMP Geringsten#!."
+ court_ongoing.1222.desc:0 "[owner.GetTitledFirstName] sah mit jedem Tag magerer aus, aber obwohl [owner.Custom('DE_PRO_POS_S_3P')] Körper dahinschwand, blieben [owner.Custom('DE_PRO_POS_S_3P')] Wille und [owner.Custom('DE_PRO_POS_S_3P')]e Hingabe stark.\n\nIch suche [owner.Custom('DE_PRO_PER_S_3P_A')] auf und teile [owner.Custom('DE_PRO_PER_S_3P_D')] mit, dass die Herausforderung bestanden ist, und das Erste, was [owner.Custom('DE_PRO_PER_S_3P_N')] daraufhin tat, war mir erneut die Treue zu schwören."
+ court_ongoing.1050.c.friend.f:0 "Diese Option ist verfügbar, weil Euer Freund [helpful_friend.GetShortUIName] über die Fähigkeit „Kräuterkundler“ verfügt"
+ court_ongoing.1121.a:0 "Eine nützliche, wenn auch lästige, Lektion in der Kunst der Diplomatie!"
+ court_ongoing.1121.b:0 "Eine nützliche, wenn auch lästige, Lektion in der Kunst der Täuschung!"
+ court_ongoing.court_start_sneaky_love_letter.success.0503.desc:1 "\n\nDas Warten ist unerträglich. Beim Gedanken an eine Zurückweisung wird mir flau im Magen! Als [target.Custom('DE_PRO_POS_S_3P')]e Antwort endlich kommt, breche ich das Siegel mit zitternden Händen.\n\n„Obschon ich Euch nicht ermutigen kann, [owner.Custom2('RelationToMeAddress', ROOT.Char)], danke ich Euch doch für Eure gütigen Worte. Hochachtungsvoll, [target.GetFirstNameNoTooltip].“"
+
+ #Section 2 part 2:
+ ll_loves_embrace:0 "von Eurer Liebe umfangen zu werden,"
+ ll_be_by_your_side:0 "an Eurer Seite zu sein,"
+ ll_have_your_lips_touch_mine:0 "zu spüren, wie Eure Lippen die meinen berühren,"
+ ll_want_to_see_you:0 "Euch zu sehen,"
+ ll_smooch_you:0 "Euch abzuknutschen,"
+ ll_have_you_close:0 "Euch in meiner Nähe zu haben,"
+ ll_hear_your_voice:0 "wieder Eure Stimme zu hören,"
+ ll_watch_you_sleep:0 "Euch beim Schlafen zuzusehen,"
+ ll_climb_inside_you:0 "in Euch hineinzuklettern,"
+ ll_sniff_your_breeches:0 "an Eurem Beinkleid zu schnüffeln,"
+ ll_sniff_your_smock:0 "an Eurem Kittel zu schnüffeln,"
+ #Section 2 part 3:
+ ll_that_i_may_know:0 "damit ich endlich [ROOT.Char.Custom('love_letter_knowledge_object')]"

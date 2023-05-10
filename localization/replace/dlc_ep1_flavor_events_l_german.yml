@@ -1,0 +1,4 @@
+﻿l_german:
+ ep1_flavor.0021.b.tt:0 "Beide [courts|E] gewinnen [SCOPE.ScriptValue('ep1_flavour_0021_courts_gain_opinion_value')|P0] [opinion|E] voneinander"
+ ep1_flavor.0011.b:0 "Ihr seid dafür verantwortlich, Ihr macht es auch sauber. DIENSTBOTEN! Einen Feudel!"
+ ep1_flavor.2030.d:0 "„Kommt und arbeitet für mich, [local_dispute_2.Custom('GetLocalRole')|U][local_dispute_2.Custom('DE_END_NOU_S_GS_N')].“"

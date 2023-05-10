@@ -1,0 +1,6 @@
+﻿l_german:
+ witch.2003.c:0 "[target.Custom('DE_PRO_PER_S_3P_N')|U] muss zu [target.Custom('DE_PRO_POS_S_3P')]em eigenen Weg finden."
+ witch.2006.desc:0 "[target.Custom2('MyCharacterIntroduction', ROOT.Char)|U] ist nicht in [target.Custom('DE_PRO_POS_S_3P')]em Bett, als ich auf meiner Mission, die mir [owner.GetFaith.WitchGodName] aufgetragen hat, durch [target.Custom('DE_PRO_POS_S_3P')] Fenster klettere. Wo könnte …\n\n„Wer ist da?!“\n\nIch fahre herum und sehe [target.GetTitledFirstName] in einem auf den Boden gezeichnetem Pentagramm kauern."
+ witch.2006.a:0 "Oh, Ihr wart schon eine …! Hallo, [target.Custom('SisterBrother')|U]!"
+ witch.4002.wrathful.desc:0 "Zufällig weiß ich, dass [annoying_clergy.GetTitledFirstName] im Suff höchst angriffslustig wird und dass [annoying_clergy.Custom('DE_PRO_PER_S_3P_N')] ein Auge auf mein Personal geworfen hat. Ich ließ [wrathful_desc.Custom('DE_ART_DEF_S_A')] passend[wrathful_desc.Custom('DE_END_ADJ_NUL_S_A')] [wrathful_desc.GetWomanMan] eine Flasche sehr teuren Weins und noch stärkere Spirituosen in das Gemach von [annoying_clergy.GetTitledFirstNameNoTooltip] bringen. Angespornt von einer in Aussicht gestellten Beförderung füllte [wrathful_desc.Custom('DE_PRO_PER_S_3P_N')] [annoying_clergy.Custom('DE_PRO_PER_S_3P_A')] gerade rechtzeitig zur Messe so richtig ab."
+ convert_to_witchcraft_action:0 "Bekehrung von"

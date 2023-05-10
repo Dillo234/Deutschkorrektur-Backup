@@ -1,0 +1,2 @@
+﻿l_german:
+ intrigue_scheme_ongoing.5017.a:1 "[spouse.Custom('DE_PRO_POS_P_2P_N')|U] [spouse.Custom2('RelationToMe', SCOPE.sC('target'))] hat Euch „[spouse.Custom('InsultAdjectiveArticle')]“ und „[spouse.Custom('InsultNoun')]“ genannt."

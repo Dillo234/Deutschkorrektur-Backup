@@ -1,0 +1,2 @@
+﻿l_german:
+ RAID_ARMY_TOOLTIP:0 "#T Plünderer#!\nDiese Armee führt einen [raid|E] durch.\nSie führt [gold_i][Army.GetRaidLoot|V0] mit sich."

@@ -1,0 +1,10 @@
+﻿l_german:
+ COA_HAS_LAWS:0 "@title_succession![title_succession|E]-Gesetz:"
+ MILITARY_STRENGTH_OUR_LABEL:0 "#T Unsere militärische Stärke#!\n"
+ MILITARY_STRENGTH_ALLIES_LABEL:0 "\n#S Militärische Stärke der [Concept('allies', 'Verbündeten')|E]:#!\n"
+ SORT_BY:0 "Sortieren: "
+ REALM_TOOLTIP_HOLDER:0 "[ruler|E]: [Select_CString(TITLE.IsLocalPlayer, 'Ihr', TITLE.GetHolder.GetName)]\nDerzeitige [line_of_succession|E]:\n[TITLE.GetLineOfSuccessionDesc]\n"
+ COA_REALM_TOOLTIP_CHARACTER:4 "#T [CHARACTER.GetPrimaryTitle.GetNameWithUnderlyingNoTooltip|U]#!\n[realm|E]: [CHARACTER.GetGovernment.GetName] auf [CHARACTER.GetPrimaryTitle.GetRankConcept]-[rank|E]\n[ruler|E]: [Select_CString(CHARACTER.IsLocalPlayer, 'Ihr', CHARACTER.GetUIName)|U]\nMilitärische Stärke: [CHARACTER.GetMilitaryStrengthText|V] [soldiers|E]\nReichsgröße: [CHARACTER.RealmSize|V] [counties|E]\n\n#S Nachfolge#!\nNachfolgerecht: $SUCCESSION_FORM_NAME$\n\n[line_of_succession|E]:\n[CHARACTER.GetPrimaryTitle.GetLineOfSuccessionDesc]"
+ CHARACTER_IMPRISONED_TOOLTIP:0 "[imprisoned|E] durch [Select_CString(Character.GetImprisonedBy.IsLocalPlayer, 'Euch', Character.GetImprisonedBy.GetUIName)]"
+ MODIFIED_CHECKSUM:0 "[Select_CString(IsGameChecksumOk, '', '#X (Gemoddet)#!')]"
+ END_OF_COMBAT_CONTRIBUTION_TOOLTIP:0 "#T Kriegsbeteiligung geändert um #V [BattleSummaryWindow.GetCombatResultData.GetWarContribution(GetPlayer)|=]#!#!"

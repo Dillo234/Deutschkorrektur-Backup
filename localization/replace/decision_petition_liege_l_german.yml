@@ -1,0 +1,6 @@
+﻿l_german:
+ petition_liege_faction_war_desc:0 "[ROOT.Char.GetLiege.GetTitledFirstName] darum ersuchen, dass [ROOT.Char.GetLiege.Custom('DE_PRO_PER_S_3P_N')] eine mächtige [faction|E] auflöst oder Euren Krieg mit ihr beendet."
+ petition_liege_decision_option_title_vassal:0 "Anspruch übertragen\n#low [Concept('claimed', 'Beanspruchten')|E] [title|E] eines [Concept('vassal', 'Vasallen')|E] verleihen"
+ petition_liege_title_vassal_liege_tt:0 "#X Die [crown_authority|E] Eures [Concept('liege', 'Lehnsherrn')|E] erlaubt keine [revocation|E] von [Concept('titles', 'Titeln')|E]#!"
+ petition_liege_county_control_tt:0 "#X Keine Eurer [counties|E] hat eine niedrige [control|E]#!"
+ petition_liege_council_seat_liege_tt:0 "#X Euer [liege|E] kann derzeit den [council|E] nicht umgestalten#!"

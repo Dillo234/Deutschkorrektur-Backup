@@ -1,0 +1,4 @@
+﻿l_german:
+ friendship.1008.a.failure:0 "[friend_receiving_gift.GetFirstName] lehnt Euer Angebot ab"
+ friendship.2006.a:0 "Ich kann es nicht fassen, wie viel wir gemeinsam haben, mein[friend_receiving_confession.Custom('DE_END_PRO_S_N')] [ROOT.GetCharacter.Custom2('RelationToMe', SCOPE.sC('friend_receiving_confession'))]."
+ friendship.3006.desc:1 "[friend_on_council.GetTitledFirstName], [friend_on_council.Custom('DE_ART_DEF_S_N')] mir immer mit Rat und Tat zur Seite steht, hat etwas gut bei [hooked_councillor.GetTitledFirstName]. [friend_on_council.Custom('DE_PRO_PER_S_3P_N')|U] hat [hooked_councillor.GetFirstNameNoTooltip] gegenüber deutlich gemacht, dass ich diesen Gefallen einlösen darf."

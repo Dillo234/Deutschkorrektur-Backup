@@ -1,0 +1,5 @@
+﻿l_german:
+ culture_notification.0010.desc:1 "Die [this_player.GetCulture.GetNameNoTooltip|l]e Kultur hat die Tradition „[SCOPE.Custom('GetTraditionNameFromFlag')]“ aufgegeben"
+ culture_notification.0011.desc:1 "Die [this_player.GetCulture.GetNameNoTooltip|l]e Kultur hat die Tradition „[SCOPE.Custom('GetTraditionNameFromFlag')]“ angenommen"
+ culture_notification.1001.desc:0 "[founder.GetTitledFirstName] hat die [parent_1.GetNameNoTooltip|l]e und [parent_2.GetNameNoTooltip|l]e Kultur verbunden und damit die [new_culture.GetNameNoTooltip]e [hybrid_culture|E] erschaffen"
+ culture_notification.1011.intro:1 "Von den freundschaftlichen Beziehungen angespornt und durch den kulturellen Austausch gestärkt sind sich das [parent_1.GetName|l]e und das [parent_2.GetName|l]e Volk im Lauf der Jahre immer näher gekommen. Nun haben Einzelne aus beiden Gesellschaften begonnen, sich nicht mehr als das eine oder das andere zu bezeichnen und wahrzunehmen, sondern als beides gleichzeitig – eine neue [new_culture.GetName]e Kultur.\n\n"

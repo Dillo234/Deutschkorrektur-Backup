@@ -1,0 +1,4 @@
+﻿l_german:
+ RP_RAISE_RAID:0 "Lokale Plünderer ausheben"
+ RP_RAISE_MEN_AT_ARMS_TOOLTIP_HEADER:0 "#T $RP_RAISE$#!\nDas komplette [men_at_arms|E] hier ausheben.#!"
+ RP_TIME_TO_RAISE_DELAY:1 "Die Zeit für das Ausheben beinhaltet eine Verzögerung von $VALUE$ aufgrund von [soldiers|E], die nach einer unlängst erfolgten Auflösung nach Hause zurückkehren"

@@ -1,0 +1,4 @@
+﻿l_german:
+ COMBAT_RETREAT_TOOLTIP_POSSIBLE:0 "Jede der beiden Seiten kann sich zu einem geplanten Rückzug entschließen\n#I Ein Rechtsklick auf der Karte befiehlt Eurer Armee, sich an den angeklickten Punkt zurückzuziehen#!"
+ COMBAT_PREDICTION_LEVEL_0:1 "Ihr werdet eine deutliche Niederlage erleiden"
+ COMBAT_PREDICTION_LEVEL_4:1 "Ihr werdet einen deutlichen Sieg erringen"

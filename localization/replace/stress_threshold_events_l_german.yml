@@ -1,0 +1,12 @@
+﻿l_german:
+ stress_threshold_cooldown_message:1 "Wenn Ihr in [SCOPE.ScriptValue('stress_threshold_cooldown_duration_in_years')|V0] Jahren noch immer [stressed|E] seid, könntet Ihr einen weiteren [Concept('mental_break', 'Geistigen Zusammenbruch')|E] erleiden"
+ stress_threshold.0400.toast:2 "Ihr habt Eure [Concept('stress', 'Anspannungs')|E]-Schwelle überschritten und wurdet auf [stress_level|E] 3 zurückgesetzt"
+ stress_threshold.1502.courtier.desc:0 "\n\nInsbesondere [scoped_courtier.GetFirstName] ist in letzter Zeit nicht auszuhalten. Ich kann es kaum ertragen, mir das ständige Gefasel anzuhören, das mein[scoped_courtier.Custom('DE_END_PRO_S_N')] [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('scoped_courtier'))] von sich gibt."
+ stress_threshold.1601.irritable.gain:0 "Wenn alle #EMP ruhig#! wären, käme ich vielleicht zum Nachdenken!"
+ stress_threshold.1601.contrite.gain:0 "Ich reinige meinen Geist, indem ich meine Missetaten beichte."
+ stress_threshold.1602.profligate.gain:0 "Meine innere Mitte könnte ich mit etwas Prunkvollem finden."
+ stress_threshold.1504.b:0 "Ich muss meine Säfte wieder ins Gleichgewicht bringen, egal wie."
+ stress_threshold.1011.rakish.gain:0 "Ein Ausflug ins Freudenhaus verschafft mir Erleichterung!"
+ stress_threshold.1001.improvident.gain:0 "Ich will wohltätig spenden, um meine Sünden aufzuwiegen."
+ stress_threshold.3201.wrathful.gain:0 "„Nein, Ihr kriecherisches Stück Dung, ist es #EMP nicht#!!“"
+ stress_threshold.1601.improvident.gain:0 "Könnte wahre Großzügigkeit vielleicht meine Gedanken ordnen?"

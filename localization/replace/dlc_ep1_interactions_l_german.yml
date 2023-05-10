@@ -1,0 +1,4 @@
+﻿l_german:
+ INDEBT_GUEST_INTRIGUE_ACTOR:0 "[intrigue|E] von [Select_CString(actor.IsLocalPlayer, 'Euch', actor.GetShortUIName)|U]: $VALUE|=+0$"
+ INDEBT_GUEST_INTRIGUE_RECIPIENT:0 "[intrigue|E] von [Select_CString(recipient.IsLocalPlayer, 'Euch', recipient.GetShortUIName)|U]: $VALUE|=+0$"
+ INDEBT_GUEST_CURRENT_CGV_ABOVE_EXPECTED:0 "Übertroffene [court_grandeur|E] von [Select_CString(recipient.IsLocalPlayer, 'Euch', recipient.GetShortUIName)|U]: $VALUE|=+0$"

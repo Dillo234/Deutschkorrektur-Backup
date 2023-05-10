@@ -1,0 +1,5 @@
+﻿l_german:
+ RULER_DESIGNER_RANDOM_ETHNICITY_FOR_CULTURE:0 "Zufällige [RulerDesignerWindow.GetCulture.GetNameNoTooltip|l]e Ethnie"
+ RULER_DESIGNER_RANDOM_NAME_FAITH_TOOLTIP:2 "#T Zufälliger [Faith.GetAdjectiveNoTooltip|l]er Name#!"
+ RULER_DESIGNER_RANDOM_NAME_CULTURE_TOOLTIP:2 "#T Zufälliger [Culture.GetNameNoTooltip|l]er Name#!"
+ RULER_DESIGNER_LIST_CULTURE_ENTRY_TOOLTIP:3 "#T [SelectLocalization( CollapsibleCultureListGroup.AreChildrenVisible, 'RULER_DESIGNER_LIST_ENTRY_COLLAPSE', 'RULER_DESIGNER_LIST_ENTRY_EXPAND' )] [CulturePillar.GetNameNoTooltip]e Herkunft#!"

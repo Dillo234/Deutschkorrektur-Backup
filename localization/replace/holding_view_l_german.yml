@@ -1,0 +1,7 @@
+﻿l_german:
+ HOLDING_IN_DOMAIN_LIMIT_GRACE_PERIOD_TOOLTIP:0 "@warning_icon!#X Da Ihr über Eurer [domain_limit|E] liegt, gibt dieses [Concept('recently_acquired_holding', 'Kürzlich erhaltene Besitztum')|E] weder [taxes|E] noch [levies|E]#!"
+ SET_REALM_CAPITAL_PREFERRED_CAPITAL:0 "Dies ist der [Concept('de_jure', 'De-jure')|E]-Hauptsitz von [TITLE.GetNameNoTierNoTooltip], sodass der Hauptsitz auch hierher verlegt werden kann, wenn er schon einmal verlegt wurde"
+ HOLDING_VIEW_LESSEE:0 "Pächter"
+ HOLDING_RAID_INCOME_TOOLTIP_TOTAL:0 "Gesamt-[raid_loot|E]"
+ COUNTY_OPINION_TOOLTIP:0 "#T Volksmeinung von [Select_CString(HoldingView.GetProvince.GetCounty.GetCount.IsLocalPlayer, 'Euch', HoldingView.GetProvince.GetCounty.GetCount.GetUIName)]: [HoldingView.GetCountyOpinion|=+]#!\n[HoldingView.GetCountyOpinionDesc]"
+ COUNTY_DEVELOPMENT_TAX_MULT:0 "[taxes|E] um $MULT|%+1$ gesteigert"

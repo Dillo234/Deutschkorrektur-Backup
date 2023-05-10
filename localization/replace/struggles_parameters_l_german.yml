@@ -1,0 +1,4 @@
+﻿l_german:
+ struggle_parameter_granting_independence_to_non_dejure_gives_renown:1 "Nicht-[Concept('de_jure', 'De-jure')|E]-Vasallen Unabhängigkeit zu schenken, gewährt [dynasty_prestige|E]"
+ struggle_parameter_completing_building_in_temple_gives_piety:1 "Gebäudefertigstellung in [Concept('temple_holdings', 'Tempelbesitztümern')|E] gewährt [piety_i][piety|E]"
+ struggle_parameter_completing_building_in_castle_gives_development:1 "Gebäudefertigstellung in [Concept('castle_holdings', 'Burgbesitztümern')|E] gewährt [development_growth|E]"

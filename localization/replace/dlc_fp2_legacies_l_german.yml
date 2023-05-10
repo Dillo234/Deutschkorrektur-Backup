@@ -1,0 +1,5 @@
+﻿l_german:
+ LEGACY_DYNASTY_PRESTIGE_AND_GUEST_FROM_BUILDING_COMPLETION:1 "Erhaltet [prestige_i]#P [EmptyScope.ScriptValue('medium_prestige_gain')|0]#! [prestige|E] und zieht mögliche [guests|E] an, wenn ein [building|E] in einem [city_holding|E] fertiggestellt wird"
+ LEGACY_DYNASTY_SUPPORT_FROM_COUNCILORS:2 "Erhaltet #P [EmptyScope.ScriptValue('council_reliable_house_percentage')|0]%#! des [Concept('skills','Hauptwerts')|E] der [councillors|E], die zu Eurem [house|E] gehören."
+ fp2_urbanism_legacy_1_name:1 "Einflussreiche Städte"
+ prestige_gained_from_building_completion:0 "Prestige durch fertiggestelltes Gebäude"

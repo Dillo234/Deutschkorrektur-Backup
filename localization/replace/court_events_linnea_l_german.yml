@@ -1,0 +1,6 @@
+﻿l_german:
+ court.5030.desc:0 "Ich muss den ganzen Tag den Leuten beim Jammern und Klagen zuhören und bin so #EMP gelangweilt#!, dass ich nicht anders kann, als mich auf das Spiel zu konzentrieren, das [child.Custom2('MyCharacterIntroduction', ROOT.Char)] gerade spielt …"
+ court.5056.desc_opening:1 "Das Talent, das [painter.Custom2('MyCharacterIntroduction', ROOT.Char)] mit dem Pinsel zeigt, wächst mit jedem Jahr und damit auch [painter.Custom('DE_PRO_POS_S_3P')]e Interessen und Kompetenzen in anderen Bereichen.\n\n"
+ court.5056.desc_family:1 "„Danke, dass Ihr an mich glaubt, [painter.Custom2('RelationToMeShort', ROOT.Char)]."
+ court.5056.desc:0 "„Danke, dass Ihr an mich und mein Talent glaubt, m[ROOT.Char.Custom('DE_ART_IND_N')] [ROOT.Char.GetLadyLord]."
+ court.5056.desc_ending:1 "Ich habe ein neues Vorhaben in Planung, und vielleicht seid Ihr daran interessiert, noch einmal m[ROOT.Char.Custom('DE_ART_IND_N')] Gönner[ROOT.Char.Custom('DE_END_NOU_S_GS_N')] zu sein?“"

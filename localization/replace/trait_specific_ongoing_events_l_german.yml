@@ -1,0 +1,3 @@
+﻿l_german:
+ trait_specific_ongoing.1005.desc:0 "Als ich in einer nebligen Nacht draußen spazieren gehe, erscheint mir plötzlich ein Geist, der mit lauter Stimme zu mir spricht.\n\n„[ROOT.Char.GetFirstNameNoTooltip]! Lange nicht gesehen!“\n\nEs ist mein[dead_person.Custom('DE_END_PRO_S_N')] [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('dead_person'))], [dead_person.GetTitledFirstName]. Solltet Ihr nicht längst tot sein?"
+ trait_specific_ongoing.2015.physician.desc:0 "\n\n[physician.Custom2('MyCharacterIntroduction', ROOT.Char)|U] muss [chaplain.Custom('DE_PRO_PER_S_3P_A')] gehört haben. „Was [ROOT.Char.Custom('DE_ART_DEF_S_N')] [ROOT.Char.GetTitleAsNameNoTooltip] jetzt braucht, sind Ruhe und Frieden, nicht die Angst vor ewiger Verdammnis!“"

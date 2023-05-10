@@ -1,0 +1,4 @@
+﻿l_german:
+ stewardship_duty_0001_mediation_success.tt:0 "[arguer_1.GetShortUIName|U] und [arguer_2.GetShortUIName] erlangen eine bessere [opinion|E] voneinander"
+ stewardship_duty.4015.desc:0 "Ich mache [faction_member.Custom('DE_PRO_PER_S_3P_D')] mehr als deutlich klar, was [faction_member.Custom('DE_PRO_PER_S_3P_N')] für [faction_member.Custom('DE_PRO_POS_S_3P')]e Loyalität mir gegenüber zu gewinnen hat, und bringe [faction_member.GetTitledFirstName] so dazu, die Fraktion [targeting_faction.GetName] nicht weiter zu unterstützen.\n\n[faction_member.Custom('DE_PRO_POS_S_3P')|U] Groll war einfach zu unwichtig im Vergleich zu dem, was ich zu bieten hatte!"
+ stewardship_duty.5021.desc:0 "Ich sitze über den Hauptbüchern, in denen die Abgaben meiner Vasallen eingetragen sind. Die Zahlen stimmen nicht … dies[cheater_vassal.Custom('DE_END_ADJ_IND_S_N')] betrügerische [cheater_vassal.GetTitledFirstName] hat mich zum Narren gehalten und zu wenig bezahlt!"

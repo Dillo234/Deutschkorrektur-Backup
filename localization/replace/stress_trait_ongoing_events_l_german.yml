@@ -1,0 +1,3 @@
+﻿l_german:
+ stress_trait_ongoing_0516.desc:0 "„… ist es deswegen auch so wichtig, dieses Treffen.“\n\nWas? Oh, richtig, ja, das Treffen mit [important_guest.GetTitledFirstName]. Wegen … etwas. Worüber #EMP haben#! wir denn gerade gesprochen? [important_guest.Custom('DE_PRO_PER_S_3P_N')|U] scheint es jedenfalls sehr ernst damit zu meinen. Was auch immer es ist.\n\nIch strecke die Hand nach einem weiteren Haschischkeks aus und knabbere gedankenverloren daran. [important_guest.GetFirstNameNoTooltip] hebt angesichts meines Schweigens eine Augenbraue, und es dämmert mir, dass ich vielleicht ein paar Kekse #EMP zu viel#! hatte."
+ stress_trait_ongoing.1501.d:0 "Ich sollte [obsession.GetFirstName] nicht zum Objekt machen. Das ist einfach #EMP falsch#!!"

@@ -1,0 +1,4 @@
+﻿l_german:
+ ANTIQUARIAN:0 "Hofantiquar"
+ INVENTORY_TAB_CLAIMS_HIS_HER_MY:1 "$INVENTORY_TAB_CLAIMS$ von [Select_CString(Character.IsLocalPlayer, 'Euch', Character.GetShortUINameNoTooltipNoFormat)]"
+ INVENTORY_COURT_ARTIFACTS_BUTTON_TOOLTIP:1 "Zu [Concept('court_artifacts', 'Hofartefakten')|E] [Select_CString(Character.IsLocalPlayer, 'an Eurem', 'am')] [royal_court|E][Select_CString(Character.IsLocalPlayer, '', ' von ')][Select_CString(Character.IsLocalPlayer, '', Character.GetShortUINameNoTooltipNoFormat)] gehen"

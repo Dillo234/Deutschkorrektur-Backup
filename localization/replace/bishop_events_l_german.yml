@@ -1,0 +1,2 @@
+﻿l_german:
+ bishop.1011.desc_cannibal:0 "\n\nEin[cannibal_food.Custom('DE_END_PRO_S_N')] [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('cannibal_food'))] von Euch namens [cannibal_food.GetTitledFirstName] sieht zum Anbeißen aus. Es wäre doch #EMP zu schade#!, wenn [cannibal_food.Custom('DE_PRO_PER_S_3P_D')] etwas zustieße …"

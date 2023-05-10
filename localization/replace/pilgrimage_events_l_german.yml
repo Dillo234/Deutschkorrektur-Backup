@@ -1,0 +1,6 @@
+﻿l_german:
+ pilgrimage.2004.desc:0 "Als ich mich meinem Ziel [destination_title.GetNameNoTierNoTooltip] nähere, begegnen mir immer mehr Pilger aus allerlei Orten.\n\nEin[potential_friend.Custom('DE_END_ADJ_IND_S_N')] erkennt mich schon von Weitem: „[ROOT.Char.GetTitledFirstNameNoTooltip]?! Seid Ihr das?“\n\nWas will denn [potential_friend.Custom2('MyCharacterIntroduction', ROOT.Char)] hier?"
+ pilgrimage.2009.a:0 "Ich werde diese Sache zu Ende bringen. [ROOT.Char.GetFaith.HighGodNameAlternate|U], hab Gnade mit mir."
+ pilgrimage.3003.c:0 "Dies[doomsayer.Custom('DE_END_ADJ_IND_S_N')] [doomsayer.GetWomanMan] ist #EMP kein#! Priester! Streckt [doomsayer.Custom('DE_PRO_PER_S_3P_A')] nieder!"
+ pilgrimage.3102.c:0 "Meine Zweifel zwingen mich, Antworten in fernen Ländern zu suchen."
+ pilgrimage.5001.desc:0 "Pilger strömen aus der gesamten christlichen Welt nach Rom. Die einen folgen der Via Francigena, andere weniger bekannten Pfaden. Am Ende finden wir uns alle hier ein, am Petersdom, an der letzten Ruhestätte des großen Heiligen selbst.\n\nAls ich gemeinsam mit den anderen Pilgern hier stehe, spüre ich ein Gefühl von ernster Einigkeit und Gemeinschaft zwischen den Versammelten, die auf ihren Reisen allesamt die verschiedensten Prüfungen und Strapazen erleiden mussten."

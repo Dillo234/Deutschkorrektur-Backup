@@ -1,0 +1,4 @@
+﻿l_german:
+ yearly.7013.a:0 "Wartet! Was auch immer [dummy_gender.Custom('DE_PRO_PER_S_3P_N')] Euch bezahlt hat, ich verdopple es!"
+ yearly.7002.d:0 "Ich empfinde nichts als Scham, während ich diese Worte schreibe. [coup_leader.GetTitledFirstName] brachte Monate damit zu, Eure Wachen zu bestechen. [coup_leader.GetSheHe|U] plant einen Anschlag auf Euer Leben vor den Augen des Hofes … Ich wünsche Euer Leben verschont zu sehen, doch sosehr ich mich auch dagegen wehre, schlägt mein Herz für die Sache der [coup_faction.GetName].\n\nIch bin ins Exil geeilt. Wir werden uns nicht wiedersehen."
+ yearly.7005.independence_faction:0 "\n\n„Wenn ich kein eigenes Reich haben kann, so will ich wenigstens [coup_leader.Custom('DE_ART_DEF_S_N')] Held[coup_leader.Custom('DE_END_NOU_S_GS_N')] meiner eigenen Tragödie sein.“"

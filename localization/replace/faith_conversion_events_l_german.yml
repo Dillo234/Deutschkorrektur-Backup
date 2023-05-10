@@ -1,0 +1,2 @@
+﻿l_german:
+ faith_conversion.1001.end.is_vassal.convert_away:0 "sind meine drängendsten Sorgen doch weltlicher Natur: Wie wird [my_liege.Custom2('MyCharacterIntroduction', ROOT.Char)] reagieren, wenn [my_liege.Custom('DE_PRO_PER_S_3P_N')] erfährt, dass ich [my_liege.Custom('DE_PRO_POS_S_3P')]em Glauben abgeschworen habe?"

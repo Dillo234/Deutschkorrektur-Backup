@@ -1,0 +1,3 @@
+﻿l_german:
+ combat_event.0005.a:0 "[friendly_commander.Custom('DE_PRO_PER_S_3P_N')|U] verdient Anerkennung dafür, jemanden wie mich besiegt zu haben."
+ combat_event.0005.b:0 "Das kann nicht sein! [friendly_commander.Custom('DE_PRO_PER_S_3P_N')|U] wird den Tag noch bereuen, an dem [friendly_commander.Custom('DE_PRO_PER_S_3P_N')] mir begegnet ist!"

@@ -1,0 +1,4 @@
+﻿l_german:
+ stewardship_wealth.6001.desc:0 "Bei einer Reise durch die [stall_county.GetName] stoße ich auf einen behelfsmäßig wirkenden Stand am Straßenrand.\n\nAls ich anhalte, um ihn mir anzusehen, tritt [stall_owner.Custom('DE_ART_IND_N')] [Select_CString(stall_owner.IsFemale,'Bäuerin','Bauer')] namens [stall_owner.GetFirstName] auf den Plan, um mich davon zu überzogen, eines der kleinen religiösen Symbole ([stall_owner.GetFaith.ReligiousSymbol]) zu kaufen, die [stall_owner.Custom('DE_PRO_PER_S_3P_N')] als Schnitzerei feilbietet.\n\n„Ich mache sie von Hand, Herr[ROOT.Char.Custom('DE_END_NOU_S_GS_N')]. Für jedes einzelne brauche ich Stunden.“"
+ stewardship_wealth.6001.c:0 "Ich spreche mit [stall_owner.Custom('DE_PRO_PER_S_3P_D')]. Mal sehen, was ich über die Kunst des Verkaufens lernen kann"
+ stewardship_wealth.1061.c:0 "Diese Handelsabkommen werden meine Schatzkammer füllen."

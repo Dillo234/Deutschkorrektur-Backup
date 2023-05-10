@@ -1,0 +1,2 @@
+﻿l_german:
+ fabricate_hook_hook_gained_on_you:0 "@warning_icon [owner.GetShortUIName] hat gegen Euch ein [hook|E] fingiert!"

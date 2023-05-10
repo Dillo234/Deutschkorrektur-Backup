@@ -1,0 +1,8 @@
+﻿l_german:
+ playdate.4001.desc:0 "\n\nDie [ROOT.Char.GetCulture.GetLanguage.GetName|l]e und die [participant.GetCulture.GetLanguage.GetName|l]e Sprache scheinen mehr Unterschiede als Gemeinsamkeiten aufzuweisen, weswegen wir so damit zu kämpfen haben, uns zu verständigen.\n\nVielleicht kann ich ja etwas tun, damit wir ohne Streit miteinander spielen können? Oder soll ich einfach hoffen, dass sich das von allein klärt?"
+ playdate.2001.desc_guest_of_interest_1_2_3:0 "Ich bin begeistert, dass [guest_of_interest_1.Custom2('MyCharacterIntroduction', ROOT.Char)] und [guest_of_interest_2.Custom2('MyCharacterIntroduction', ROOT.Char)] beide gekommen sind. Ganz zu schweigen davon, dass [guest_of_interest_3.Custom2('MyCharacterIntroduction', ROOT.Char)] es auch geschafft hat!"
+ playdate.3014.desc_participant:0 "Wir erforschen das örtliche Gotteshaus, als [participant.Custom2('MyCharacterIntroduction', ROOT.Char)] und ich auf jemanden stoßen: Es ist [priest.Custom2('MyCharacterIntroduction', ROOT.Char)], umgeben von Schriftrollen.\n\n„Das sind Tagebücher aus lange vergangenen Zeiten. Habt Ihr Interesse an derlei Dingen?“"
+ playdate.3008.c:0 "[participant.Custom('DE_PRO_PER_S_3P_N')|U] ist wohl schon nach Hause gegangen …"
+ playdate.3009.c.failure:0 "[participant.Custom('DE_PRO_PER_S_3P_N')|U] merkt, dass Ihr lügt"
+ playdate.3012.a.failure:0 "Ihr bekommt einen Schlag auf den Kopf – #EMP einen harten#!"
+ playdate.4001.desc.rowdy:0 "„Ich habe #EMP ‚Puppe‘#! gesagt, nicht #EMP ‚Pope‘#!. Vermaledeit!“ [participant.GetTitledFirstName] ist eindeutig verärgert über die Sprachbarriere zwischen uns. Bei all dem wilden Gestikulieren ist es nur eine Frage der Zeit, bis es einen Wutanfall gibt."

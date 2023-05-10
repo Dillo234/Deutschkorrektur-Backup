@@ -1,0 +1,2 @@
+﻿l_german:
+ childhood_education.1022.desc:0 "Nachdem mein[ward.Custom('DE_END_PRO_S_N')] [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('ward'))] [ward.GetTitledFirstName] so viele Stunden bei mir im Unterricht war und ich meine Weisheit mit [ward.Custom('DE_PRO_PER_S_3P_D')] teilte, hat [ward.Custom('DE_PRO_PER_S_3P_N')] sich endlich dem einzig wahren Glauben zugewandt.\n\nIch wusste schon immer, dass [ward.Custom('DE_PRO_PER_S_3P_N')] eines Tages das Licht unseres Glaubens weitertragen würde."

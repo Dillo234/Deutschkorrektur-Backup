@@ -1,0 +1,2 @@
+﻿l_german:
+ intrigue_temptation.3021.generic3.desc:0 "[potential_date.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]. Dieses Porträt stellt niemand Geringeren dar als [potential_date.Custom('DE_PRO_PER_S_3P_A')]. [potential_date.Custom('DE_PRO_PER_S_3P_N')|U] soll [potential_date.Custom('ComplimentAdjective')] sein, doch Gerüchten zufolge hat [potential_date.Custom('DE_PRO_PER_S_3P_N')] auch eine [potential_date.Custom('InsultAdjective')]e Seite …"

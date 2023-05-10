@@ -1,0 +1,5 @@
+﻿l_german:
+ ROYAL_COURT_STATUS_PENDING_EVENTS:2 "Seit Ihr das letzte Mal den Hof besucht habt #weak ([Character.GetLastTriggeredPendingCourtEventsDate.GetStringLong])#!, [Select_CString(GreaterThan_int32(Character.GetNumPendingCourtEvents, '(int32)1'), 'sind', 'ist')] [Character.GetNumPendingCourtEvents|V] [Select_CString(GreaterThan_int32(Character.GetNumPendingCourtEvents, '(int32)1'), 'neue Ereignisse', 'neues Ereignis')] erschienen"
+ YOUR_CURRENT_COURT_LANGUAGE:0 "Eure derzeitige Hofsprache"
+ ROYAL_COURT_SCREENSHOT_HIDE_UI:0 "UI verbergen"
+ ROYAL_COURT_SCREENSHOT_HIDE_UI_TOOLTIP:1 "#T Benutzeroberfläche verbergen\n#!#I $ROYAL_COURT_SCREENSHOT_HIDE_UI_NOTIFICATION$#!"

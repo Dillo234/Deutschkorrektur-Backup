@@ -1,0 +1,8 @@
+﻿l_german:
+ COUNCILLOR_MISSING_SPOUSE:0 "Ihr habt keinen [Concept('available_spouse', 'Verfügbaren Ehepartner')|E]"
+ councillor_leaving_court_marriage_notification:0 "[councillor.GetShortUINameNoTooltip], Euer [council_task.GetPositionName], hat [councillor.Custom('DE_PRO_POS_S_3P')]en Posten und Euren Hof aufgrund einer Heirat mit einem landbesitzenden Ehepartner aufgegeben."
+ councillor_leaving_court_landed_notification:0 "[councillor.GetShortUINameNoTooltip], Euer [council_task.GetPositionName], hat [councillor.Custom('DE_PRO_POS_S_3P')]en Posten und Euren Hof aufgrund eines ererbten Titels aufgegeben."
+ councillor_leaving_court_generic_fallback_notification:0 "[councillor.GetShortUINameNoTooltip], Euer [council_task.GetPositionName], hat [councillor.Custom('DE_PRO_POS_S_3P')]en Posten und Euren Hof verlassen."
+
+ councillor_steward:0 "Ratskämmerer"
+ councillor_steward_possessive:0 "des Ratskämmerers"

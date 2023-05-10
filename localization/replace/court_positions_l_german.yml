@@ -1,0 +1,10 @@
+﻿l_german:
+ COURT_POSITION_TYPE_SCALING_MODIFIER_FROM_TO:1 "$FROM$ bis $TO$"
+ court_physician_employer_custom_effect_description:2 "Führt [medical_treatments|E] durch#!\n@warning_icon!#X Ein mächtiger [agent|E] bei [Concept('hostile_schemes', 'Feindseligen Komplotten')|E] gegen Euch#!"
+ antiquarian_employer_custom_effect_description:0 "Ermöglicht das $repair_or_reforge_and_repair$ von [Concept('artifacts', 'Artefakten')|E]\nSchaltet die [decision|E] #V $commission_artifact_decision$#! frei\nSchützt [artifacts|E] bei [sieges|E] und [Concept('raids', 'Überfällen')|E]"
+ champion_employer_custom_effect_description:1 "Kann Euren Platz in manchen [Concept('single_combat_duel_plural', 'Duellen')|E] einnehmen"
+ APPOINT_COURT_POSITION_VIEW_REPLACE_FIRE_CURRENT_HOLDER:0 "Entlassen"
+ antiquarian_court_position:0 "Hofantiquar"
+ master_of_hunt_court_position:0 "Oberjägermeister"
+ bodyguard_employer_custom_effect_description:1 "Hat eine Chance, [GetScheme('murder').GetTypeName]-[schemes|E] aufzuhalten#!\nVerringert Euer Risiko in [battles|E], in denen Ihr beide kämpft, getötet oder gefangen genommen zu werden#!\n@warning_icon!#X Mächtiger [agent|E] in [Concept('hostile_schemes', 'Feindseligen Komplotten')|E], die sich gegen Euch richten#!"
+

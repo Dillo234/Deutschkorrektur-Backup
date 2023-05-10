@@ -1,0 +1,4 @@
+﻿l_german:
+ bp1_yearly.3001.b:0 "Ich könnte niemals [friend.Custom('DE_ART_IND_D')] Freund[friend.Custom('DE_END_NOU_S_GS_N')] auf der Tasche liegen."
+ bp1_yearly.3002.t:0 "[friend.Custom('DE_ART_IND_N')|U] Freund[friend.Custom('DE_END_NOU_S_GS_N')] in Not"
+ bp1_yearly.3002.b.tt:0 "Ihr habt Eur[friend.Custom('DE_END_PRO_S_A')|U] Freund[friend.Custom('DE_END_NOU_S_GS_N')] in Zeiten der Not im Stich gelassen"

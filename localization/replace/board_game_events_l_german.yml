@@ -1,0 +1,10 @@
+﻿l_german:
+ board_games.0001.desc.intro.opening.attacker:0 "[bg_opponent.GetTitledFirstName] nimmt mir gegenüber Platz. Unsere [SCOPE.Custom('BG_GameType')]-Partie wird gleich beginnen, und mit #color_blue_gray [SCOPE.Custom('BG_RandomFacialExpression')]#! verrät mein[bg_myself.Custom('DE_END_PRO_S_N')] [bg_myself.Custom2('RelationToMeShort',bg_opponent)] mir, wie selbstbewusst [bg_opponent.Custom('DE_PRO_PER_S_3P_N')] ist.\n\n[bg_opponent.Custom('DE_PRO_PER_S_3P_N')|U] ist zuerst dran, und als Eröffnung wählt [bg_opponent.Custom('DE_PRO_PER_S_3P_N')]"
+ board_games.0001.tt.crit_success.points:0 "Kolossale Punkte für den [Concept('board_game_winning', 'Gewinner')|E]"
+ board_games.0001.tt.success.points:0 "Ein paar Punkte für den [Concept('board_game_winning', 'Gewinner')|E]"
+ board_games.0001.tt.failure.points:0 "Einige Pünktchen für den [Concept('board_game_winning', 'Gewinner')|E]"
+ board_games.0001.tt.crit_failure.points:0 "Gar keine Punkte für den [Concept('board_game_winning', 'Gewinner')|E]"
+ board_games.0031.desc.result.skill:0 "#BOL Ergebnis:#! Ich gewinne die [board_game_match|E] gegen [bg_loser.GetFirstNameNoTooltip] aufgrund meiner [Concept('board_game_winning', 'Gewinner')|E]-Punkte"
+ board_games.0041.desc.result.skill:0 "#BOL Ergebnis:#! Ich verliere die [board_game_match|E] gegen [bg_victor.GetFirstNameNoTooltip] wegen [bg_victor.Custom('DE_PRO_POS_S_3P')]er [Concept('board_game_winning', 'Gewinner')|E]-Punkte."
+ board_games.0031.b:0 "Wie fühlt es sich an, so zu verlieren, Klein[bg_loser.Custom('DE_END_ADJ_IND_S_N')]?"
+ board_games.0001.desc.opponent_winning.relation.best_friend:0 "„Ganz gleich, wie es kommt, ob nun Sieg oder Niederlage“, sagt mein[bg_opponent.Custom('DE_END_PRO_S_N')] best[bg_opponent.Custom('DE_END_ADJ_IND_S_N')] Freund[bg_opponent.Custom('DE_END_NOU_S_GS_N')]. „Es gibt niemandem, mit [bg_myself.Custom('DE_ART_DEF_S_D')] ich lieber [SCOPE.Custom('BG_GameType')] spiele.“"

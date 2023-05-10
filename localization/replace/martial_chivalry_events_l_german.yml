@@ -1,0 +1,2 @@
+﻿l_german:
+ martial_chivalry.2011.start.desc:0 "Der Klang von [ROOT.Char.Custom('signature_weapon')] auf [challenger.Custom('signature_weapon')] hallt durch den Innenhof. Alle Augen sind auf uns gerichtet, jeder möchte sehen, wie sein[ROOT.Char.Custom('DE_END_PRO_S_N')] [ROOT.Char.GetTitleTierName] und [ROOT.Char.Custom('DE_PRO_POS_S_3P')][challenger.Custom('DE_END_PRO_S_N')] [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('challenger'))] gegeneinander antreten.\n\n"

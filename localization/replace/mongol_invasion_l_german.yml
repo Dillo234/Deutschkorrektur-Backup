@@ -1,0 +1,4 @@
+﻿l_german:
+ mongol_invasion.1001.sympathetic.desc:0 "Ein[old_khan.Custom('DE_END_PRO_S_N')] groß[old_khan.Custom('DE_END_ADJ_IND_S_N')] [old_khan.GetWomanMan] ist von uns gegangen. [new_khan.GetFirstName] wurde als neu[new_khan.Custom('DE_END_ADJ_IND_S_N')] [new_khan.GetTitleAsNameNoTooltip] verkündet!\n\nDa [old_khan.GetFirstNameNoTooltip] nun zu [old_khan.Custom('DE_PRO_POS_S_3P')]em ewigen Ritt aufgebrochen ist, ist die Welt ob [old_khan.Custom('DE_PRO_POS_S_3P')]er Bemühungen doch ein besserer Ort."
+ mongol_invasion.1002.b:0 "Die Welt erobern? [temujin.Custom('DE_PRO_PER_S_3P_N')|U] kann es ja mal versuchen!"
+ mongol_invasion.2001.desc:0 "es ist unvermeidlich, dass Ihr Euch mir als Herrscher[mongol_emperor.Custom('DE_END_NOU_S_GS_N')] des Universums beugen werdet. Lasst es im Zuge eines Treueids statt bei einem Niederknien mit der Henkersklinge an der Kehle geschehen."

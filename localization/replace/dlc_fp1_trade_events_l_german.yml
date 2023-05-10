@@ -1,0 +1,3 @@
+﻿l_german:
+ fp1_trade_events.1131.desc:0 "Eine Horde von chaotischen Piraten, landlosen Freien, verzweifelten Spätgeborenen und anderen dahergelaufenen Tunichtguten haben sich [attacker.GetFirstName] beim vorgeschlagenen Angriff auf meine Besitztümer angeschlossen.\n\nAuch wenn die Größe der Streitmacht beeindruckend ist, fehlt es ihr doch an Disziplin oder Treue, denn jeder der habgierigen Söldner will sich bei diesem Krieg einzig und allein die eigenen Taschen vollmachen.\n\nIm Gegensatz zu gewöhnlichen Feinden könnte man vielleicht mit den Eindringlingen verhandeln. Möglicherweise wird man sich ja einig …"
+ fp1_trade_events.0041.a.advanced:0 "Bauen sie mir vielleicht einen Palast im [partner.GetCulture.GetNameNoTooltip|l]en Stil?"

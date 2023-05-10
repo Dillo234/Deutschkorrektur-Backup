@@ -1,0 +1,5 @@
+﻿l_german:
+ varangian.0002.opening:0 "Als [varangian_candidate.Custom2('MyCharacterIntroduction', ROOT.Char )] zu mir kommt mit [varangian_candidate.Custom('DE_PRO_POS_S_3P')]er Idee, hat [varangian_candidate.Custom('DE_PRO_PER_S_3P_N')] sich offenbar längst entschieden.\n\n„Mit den Warägern"
+ varangian.0002.miklagard:0 "in Miklagard"
+ varangian.0002.elsewhere:0 "der Kaisergarde"
+ varangian.0002.end:0 "zu dienen wird mir Wohlstand und Ruhm bringen!“\n\nDas kann ich nicht leugnen, aber ich könnte [varangian_candidate.Custom('DE_PRO_PER_S_3P_D')] die Bitte verwehren. Andererseits, wäre es richtig, jemandem beim Streben nach Ruhm im Weg zu stehen?"

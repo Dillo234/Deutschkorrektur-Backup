@@ -1,0 +1,7 @@
+﻿l_german:
+ designate_gruesome_festivals_sacrifice_interaction_desc:0 "Wählt [recipient.GetShortUINameNoTooltip] als Euer persönliches [designate_chief_sacrifice_chief_sacrifice|E] beim kommenden [actor.Custom('GruesomeFestivalName')] aus"
+ remove_designated_gruesome_festivals_sacrifice_interaction_desc:0 "Verhindern, dass [recipient.GetShortUINameNoTooltip] Euer persönliches [designate_chief_sacrifice_chief_sacrifice|E] beim kommenden [actor.Custom('GruesomeFestivalName')] wird"
+ fp1_tbc_winner_actor:2 "Wenn [Select_CString(actor.IsLocalPlayer, 'Ihr', actor.GetShortUINameNoTooltip)] siegreich [Select_CString(actor.IsLocalPlayer, 'seid', 'ist')]"
+ fp1_tbc_winner_recipient:2 "Wenn [Select_CString(recipient.IsLocalPlayer, 'Ihr', recipient.GetShortUINameNoTooltip)] siegreich [Select_CString(recipient.IsLocalPlayer, 'seid', 'ist')]"
+ TBC_PROWESS_ACTOR:0 "[prowess|E] von [Select_CString(actor.IsLocalPlayer, 'Euch', actor.GetShortUIName)|U]: $VALUE|=+0$"
+ TBC_PROWESS_RECIPIENT:0 "[prowess|E] von [Select_CString(recipient.IsLocalPlayer, 'Euch', recipient.GetShortUIName)|U]: $VALUE|=+0$"

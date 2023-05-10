@@ -1,0 +1,6 @@
+﻿l_german:
+ not_same_faith_filter_option_desc:0 "Nur Charaktere anzeigen, die einen anderen [Concept('faith', 'Glauben')|E] haben als Ihr"
+ same_culture_filter_option_desc:0 "Nur Charaktere anzeigen, die nicht dieselbe [Concept('culture', 'Kulturgruppe')|E] haben wie Ihr"
+ age_25_filter_option_desc:0 "Nur Charaktere anzeigen, die 25 oder jünger sind"
+ same_heritage_filter_option:2 "[GetPlayer.GetCulture.GetHeritage.GetNameNoTooltip]e Herkunft"
+ CHARACTER_LIST_FILTER_PRESET_BUTTON_SAVE:1 "Filter als Voreinst. speichern"

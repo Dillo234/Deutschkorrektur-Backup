@@ -1,0 +1,3 @@
+﻿l_german:
+ DYNASTY_PRESTIGE_LEVEL_EFFECT:1 "• Kinder werden mit [prestige_i]$BIRTH|V0$ geboren!\n• Einheirat in diese Dynastie verleiht [prestige_i]$MARRIAGE|0+=$\n• Herrscher erhalten ein Maximum von $LONG_REIGN|V0=$ für die Meinung über lange Herrschaft"
+ DYNASTY_HOUSE_TT_HEAD_OF_HOUSE:1 "[house_head|E]: [Select_CString(DynastyHouse.GetHeadOfHouse.IsLocalPlayer, 'Ihr', DynastyHouse.GetHeadOfHouse.GetShortUIName)|U]"

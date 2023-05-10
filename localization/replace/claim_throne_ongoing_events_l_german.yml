@@ -1,0 +1,2 @@
+﻿l_german:
+ claim_throne_ongoing.1002.desc:1 "Ich möchte nicht aus simpler Gier nach Macht [target_title.GetName] werden, sondern weil nur ich diese gewaltige Verantwortung tragen kann! Dies scheint sogar [target.GetTitledFirstName] zu verstehen, da ich immer wichtigere Aufgaben zum Wohl des Reichs von [target.Custom('DE_PRO_PER_S_3P_D')] erhalte.\n\nBald schon bin ich vielleicht sogar de facto [target_title.GetTierAsNameNoTooltip], wenn ich auch nicht den Titel trage …"

@@ -1,0 +1,5 @@
+﻿l_german:
+ british_isles.1002.desc:0 "[ROOT.Char.Custom('DE_ART_DEF_S_N')|U] [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('restorer'))][restorer.Custom('DE_END_NOU_S_GS_N')] und [restorer.Custom('DE_PRO_POS_S_3P')]e verkommenen Banditen haben sich ein neues Reich auf den Inseln erkämpft und es zum wiedergeborenen Königreich des Danelag erklärt.\n\nWir werden sehen, ob dieser Versuch, die [restorer.GetCulture.GetName|l]e Herrschaft über England wiederherzustellen, erfolgreicher sein wird als der letzte …"
+ negotiate_the_danelaw_accept_effect.de_jure_holdings_recognised.tt:0 "Alle $k_england_adj$en [duchies|E], in denen [ntd_nord.GetTitledFirstName] mindestens eine [county|E] hält, werden ein [Concept('de_jure', 'De-jure')|E]-Teil des $k_danelaw$s"
+ resolve_danelaw_partition_effect.adjust_de_jures.tt:0 "Alle [Concept('de_jure', 'De-jure')|E]-Teile des $k_danelaw$s gehen per [de_jure_drift|E] an $k_england$"
+ formalise_the_daneland_effect.adjust_de_jures.tt:0 "Alle [Concept('de_jure', 'De-jure')|E]-Teile des $k_danelaw$s gehen per [de_jure_drift|E] an das $k_daneland$"

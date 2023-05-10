@@ -1,0 +1,2 @@
+﻿l_german:
+ hold_court.1011.b:0 "Bitte geht. [target_character.Custom('DE_ART_DEF_S_N')|U] [target_character.GetTitleAsNameNoTooltip] ist niemand, den ich kränken kann."

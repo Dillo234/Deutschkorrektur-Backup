@@ -1,0 +1,3 @@
+﻿l_german:
+ sway_ongoing.1005.t:0 "Beeinflussung: [target.Custom('DE_ART_DEF_S_N')|U] gute [target.GetTitleAsNameNoTooltip]"
+ sway_ongoing.1002.desc:0 "[target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)|U] soll empfänglicher für meine Versuche werden, mich [target.Custom('DE_PRO_PER_S_3P_D')] anzunähern. Hierzu kann ich meinem nächsten Sendschreiben an [target.Custom('DE_PRO_POS_S_3P')]en Hof ein Kompliment beifügen.\n\nIch werde …"

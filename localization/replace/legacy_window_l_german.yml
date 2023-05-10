@@ -1,0 +1,2 @@
+﻿l_german:
+ LEGACY_WARS:0 "#T Hat in [LegacyItem.GetTotalNumberOfWars] [Concept('wars', 'Kriegen')|E] gekämpft\n#![LegacyItem.GetWarBreakdown]"

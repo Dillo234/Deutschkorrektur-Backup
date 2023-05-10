@@ -1,0 +1,8 @@
+﻿l_german:
+ stress_threshold.3401.desc.rump:0 "#EMP Köpft diesen Narren!#!“\n\nDer Hof um uns herum wird totenstill."
+ stress_threshold.3401.c.journaller.gain:0 "Leiche ausquetschen! #EMP Die Körpersäfte werden Tinte!#!"
+ stress_threshold.1721.h.inappetetic.gain:0 "Der Koch soll mir kein Essen mehr zubereiten. Ich möchte keins."
+ stress_threshold.3421.c.irritable.gain:0 "Verflucht! Ihr undankbaren Volltrottel! Ich kümmere mich drum!"
+ stress_threshold.1721.e.improvident.gain:0 "Wohltätigkeit macht mich zu einem besseren Menschen, oder?"
+ stress_threshold.1721.g.comfort_eater.effect:0 "Richtet noch ein Festmahl aus! Und noch eins! Und noch eins!"
+ stress_threshold.2311.d.improvident.gain:0 "Vielleicht beruhigt eine gemeinnützige Spende ja mein Gewissen."

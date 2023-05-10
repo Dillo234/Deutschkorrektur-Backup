@@ -1,0 +1,12 @@
+﻿l_german:
+ doctrine_parameter_seek_indulgences_active_2:0 "Charaktere, die durch ihre Taten [criminal|E] werden, können #V Ablässe erbitten#!, damit diese ihnen vergeben werden"
+ doctrine_parameter_ghw_no_hof_conversion_buffs_active:0 "Wenn es kein [head_of_faith|E] gibt, erhalten Anhänger einen Bonus zur [councillor_task|E] [convert_county|E] pro kontrollierter [Concept('holy_site', 'Heiliger Stätte')|E]"
+ doctrine_parameter_holy_wars_forbidden:0 "Kann keine [Concept('holy_wars', 'Religionskriege')|E] ausrufen oder einen [raid|E] anordnen"
+ doctrine_parameter_bonus_holy_war_piety_active:0 "[piety|E] und [piety_experience|E] für siegreiche [holy_wars|E] wird um #P 50 %#! erhöht."
+ doctrine_parameter_sanctioned_false_conversion:0 "Bekehrungswiderstand: #P +30 %#!\n$EFFECT_LIST_BULLET$[characters|E] und [counties|E] können manchmal zu diesem [Concept('faith', 'Glauben')|E] zurückkonvertieren, wenn sie fehlgeleitet werden"
+ doctrine_parameter_legalism_reduced_faction_virtues:0 "[vassals|E] und [counties|E] schließen sich mit kleinerer Wahrscheinlichkeit [factions|E] gegen einen [Concept('virtuous', 'Tugendhaften')|E] Herrscher an"
+ doctrine_parameter_reduced_vassal_religion_discontent:1 "Ungläubige [vassals|E] schließen sich mit kleinerer Wahrscheinlichkeit Unabhängigkeits- und Volks-[factions|E] an"
+ doctrine_parameter_cannibalism_legal:0 "Die Eigenschaft [GetTrait('cannibal').GetName(GetNullCharacter)] wird nicht mehr als [Concept('criminal', 'Verbrechen')|E] betrachtet"
+ doctrine_parameter_adherents_more_likely_to_join_schemes:0 "Anhänger werden bereitwilliger Agenten in [Concept('schemes', 'Komplotten')|E] gegen andere Charaktere"
+ doctrine_parameter_unattractive_for_character_conversions:0 "[characters|E], aber nicht [counties|E], lassen sich leichter zu diesem [Concept('faith', 'Glauben')|E] bekehren"
+ doctrine_parameter_faith_can_raid:0 "Ermöglicht das [Concept('raiding', 'Überfallen')|E] fremdländischer [counties|E], um Beute zu machen"

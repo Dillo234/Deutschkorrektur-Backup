@@ -1,0 +1,7 @@
+﻿l_german:
+ SCHEME_AGENT_IS_EXTENDED_FAMILY:1 "Teil der [Concept('extended_family', 'Weiteren Verwandtschaft')|E] von [target.GetShortUINameNoTooltip]: $VALUE|+0=$"
+ INTRIGUE_WINDOW_WEAK_HOOKS_COUNT:0 "#T Zahl der [Concept('weak_hooks', 'Schwachen Druckmittel')|E]#!"
+ INTRIGUE_WINDOW_STRONG_HOOKS_COUNT:0 "#T Zahl der [Concept('strong_hooks', 'Starken Druckmittel')|E]#!"
+ SCHEME_WINDOW_CANCEL_CONFIRMATION_TEXT:0 "Das [SCHEME.GetName]-Komplott gegen [CHARACTER.GetShortUIName] wird aufgegeben.\n\n[SCHEME.GetCooldownInfo]"
+ SCHEME_COOLDOWN_INFO:0 "Ihr könnt für $TIME|V$ kein weiteres [SCHEME.GetSchemeType.GetTypeName]-Komplott gegen [SCHEME.GetTarget.Custom('DE_PRO_PER_S_3P_A')] schmieden."
+ SCHEME_SKILL_INFLUENCE:0 "$SKILL$ von [Select_CString(CHARACTER.IsLocalPlayer, 'Euch', CHARACTER.GetShortUIName)]"

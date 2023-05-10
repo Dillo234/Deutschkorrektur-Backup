@@ -1,0 +1,12 @@
+﻿l_german:
+ SELECT_GHW_BENEFICIARY:1 "#T [Concept('beneficiary', 'Begünstigten')|E] auswählen#![SelectLocalization(GreatHolyWarWindow.HasPotentialBeneficiary, '', 'SELEC_GHW_BENEFICIARY_NO')]"
+ GHW_NOT_ATTACKER_PLEDGED:1 "#Weak Wenn Ihr Unterstützung als Angreifer zusagt:\n$EFFECT_LIST_BULLET$Ihr wählt einen [Concept('beneficiary', 'Begünstigten')|E] aus, der einen Titel im Königreich erlangen kann\n$EFFECT_LIST_BULLET$Ihr könnt einen Teil der Kriegskasse erhalten\n$EFFECT_LIST_BULLET$Ihr erhaltet zu Beginn des Kreuzzuges Gold aus der Kriegskasse\n$EFFECT_LIST_BULLET$Kriege gegen andere Teilnehmer enden, sobald der Kreuzzug beginnt#!"
+ GHW_TOGGLE_BENEFICIARY:1 "Dem favorisierten Kandidaten vorziehen"
+ GHW_SET_OVERRIDE_DESIGNATED_WINNER_TT_HEADER_YES:0 "#T [Concept('papal_recipient', 'Favorisierten Kandidaten')|E] ablehnen#!"
+ GHW_SET_OVERRIDE_DESIGNATED_WINNER_TT_HEADER_NO:0 "#T [Concept('papal_recipient', 'Favorisierten Kandidaten')|E] akzeptieren#!"
+ GHW_MAX_WARCHEST:0 "Max!"
+ GHW_CONTRIBUTE_WAR_CHEST_TT_BODY:0 "Ich spende eine Summe an [gold|E] für den [GREAT_HOLY_WAR.GetFaith.Custom('GHWName')] im Tausch gegen [piety|E]"
+ GHW_TIME_TO_LAUNCH_TOOLTIP:0 "Beginnt am [GREAT_HOLY_WAR.GetLaunchDate.GetString] ([GREAT_HOLY_WAR.GetTimeUntilLaunch])"
+ GHW_TITLE_NOT_PLEDGED:0 "#X Man erwartet von mir militärische Unterstützung oder Gold#!"
+ GHW_PLEDGE_TT_BODY:0 "[GREAT_HOLY_WAR.GetFaith.Custom('GHWName')] beitreten! Teilnehmer können einen Teil der [war_chest|E] erhalten, und ihr [beneficiary|E] könnte [ruler|E] von [GREAT_HOLY_WAR.GetTargetTitle.GetName] werden"
+ GHW_NO_SCORE_TT:0 "#T Das [Concept('spiritual_head_of_faith', 'Klerikale Glaubensoberhaupt')|E] kann keine [contribution|E] oder Anteil erhalten#!"

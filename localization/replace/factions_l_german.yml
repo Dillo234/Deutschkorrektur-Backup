@@ -1,0 +1,5 @@
+﻿l_german:
+ FACTION_CLAIMANT_INVITE_REFUSED_HOOK_DESC:0 "Auch wenn mein Anspruch rechtens ist … kann ich mich doch nicht Euch anschließen. [faction_target.GetTitledFirstName] hat diesen … #emphasis unbestreitbaren Charme#!, der mich daran hindert, meine Hand gegen [faction_target.Custom('DE_PRO_PER_S_3P_A')] zu erheben. So ist es leider. Ich wünsche Euch Glück."
+ FACTION_DEMAND_LIBERTY_DESC:0 "[faction_leader.Custom2('AppropriateGreetingNegative', ROOT.Char)]\n\nEs ist an der Zeit, dass Ihr die uralten und unverzichtbaren Rechte Eurer Vasallen anerkennt! Nehmt die Forderungen der [faction.GetName] an. Sonst sehen wir uns auf dem Schlachtfeld wieder!"
+ FACTION_DEMAND_LIBERTY_ACCEPTED_DESC:0 "[faction_target.Custom2('AppropriateGreetingNegative', ROOT.Char)]\n\nEure selbstsüchtige Vorstellung von „Freiheit“ wird das Reich als Ganzes schwächen. Ich werde jedoch Eure Forderungen annehmen, um sinnloses Blutvergießen zu vermeiden."
+ FACTION_CLAMAINT_DYNAMIC_NAME:0 "Fraktion, die [ROOT.Faction.GetSpecialCharacter.GetNameNoTooltip] auf den [ROOT.Faction.GetSpecialTitle.GetAdjective]en Thron bringen möchte"

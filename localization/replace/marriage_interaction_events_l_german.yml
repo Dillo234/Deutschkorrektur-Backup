@@ -1,0 +1,2 @@
+﻿l_german:
+ marriage_interaction.0001.desc.liegetobetrothed:0 "das Verlöbnis aufzulösen, das Ihr und mein[rejecting_betrothed.Custom('DE_END_PRO_S_N')] [actor.Custom2('RelationToMe', SCOPE.sC('rejecting_betrothed'))] [rejecting_betrothed.GetTitledFirstName] eingegangen waren."

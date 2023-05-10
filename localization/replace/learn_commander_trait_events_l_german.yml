@@ -1,0 +1,2 @@
+﻿l_german:
+ learn_commander_trait.11.martial_tt:1 "[teacher.GetFirstName] wird versuchen, Euch [teacher.Custom('DE_PRO_POS_S_3P')]e Fähigkeiten im Bereich des Werts „[THIS.Char.Custom('CommanderTraitBeingTaught')]“ zu lehren!\n$EFFECT_LIST_BULLET$Dabei wäre ein hoher [martial_skill|E] von Vorteil."

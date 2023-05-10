@@ -1,0 +1,2 @@
+﻿l_german:
+ siege.0003.end:0 "während der Belagerung von [barony.GetNameNoTier]. [occupant.Custom2('MyCharacterIntroduction', ROOT.Char)|U] ist dafür verantwortlich."

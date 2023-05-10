@@ -1,0 +1,2 @@
+﻿l_german:
+ elope.1002.start.desc:1 "Ich werde von einem lauten Klopfen an meiner Tür geweckt. „Mein[target.Custom('DE_END_PRO_S_N')] [ROOT.Char.GetTitleAsNameNoTooltip]! Eine Wache wurde tot aufgefunden und [target.Custom('DE_PRO_POS_P_2P_N')|U] [ROOT.GetCharacter.Custom2('RelationToMeShort' , SCOPE.sC('target'))] ist verschwunden!“"

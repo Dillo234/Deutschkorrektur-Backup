@@ -1,0 +1,2 @@
+﻿l_german:
+ sibling.0003.desc:1 "Mein[sibling.Custom('DE_END_PRO_S_N')] [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('sibling') )] [sibling.GetFirstName] ist zu mir gekommen und hat Kunde aus [sibling.Custom('DE_PRO_POS_S_3P')]en neuen Landen gebracht.\n\n„[sibling.Custom2('RelationToMe' , ROOT.Char)|U]! Mögen diese Geschenke uns auf immer als Gefährten ebenso eng verbinden, wie das Blut uns verbindet!“"

@@ -1,0 +1,4 @@
+﻿l_german:
+ court.3021.b:0 "Ich ziehe [courtier2.Custom('DE_ART_IND_A')] verängstigt[courtier2.Custom('DE_END_ADJ_NUL_S_A')] [courtier2.GetFirstNameNoTooltip] in die sichere Nische."
+ court.3040.c:0 "Wie wäre es denn, wenn wir ein paar [homesick_parent.GetCulture.GetNameNoTooltip|l]e Köstlichkeiten besorgen?"
+ court.3010.b:0 "Ich mache mir Sorgen um Eure geistige Gesundheit, wenn dies Eurer Fantasie entsprang."

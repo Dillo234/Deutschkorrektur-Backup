@@ -1,0 +1,5 @@
+﻿l_german:
+ east_europe.0114.e:0 "Unser Glaube ist ebenso gültig wie der ihre! Ein Brief des Widerstands!"
+ east_europe.0111.tt.cancellation_cooldown:0 "Die $bosnian_church$ kann für [EmptyScope.ScriptValue('accuse_the_krstjani_of_heresy_cancellation_cooldown_value')|0] Jahre nicht wieder der Ketzerei beschuldigt werden"
+ east_europe.0034.desc.conversion_bloodthirsty:0 "Noch schlimmer ist jedoch, dass [scoped_ruler.GetTitledFirstNameNoTooltip] behauptet, die zürnenden Götter würden die Schwäche des [scoped_ruler.GetCulture.GetNameNoTooltip|l]en Volkes nur vergeben, wenn man ihnen regelmäßig Menschenopfer bringt!"
+ east_europe.0034.desc_conversion_adaptive:0 "Angesichts der vielen Änderungen, die das [scoped_ruler.GetCulture.GetNameNoTooltip|l]e Volk und sein Glaube in den letzten Jahrhunderten durchlaufen haben, wirkt diese Wiedererstarkung der Alten Wege erstaunlich offen und pragmatisch."

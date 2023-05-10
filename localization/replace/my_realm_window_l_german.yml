@@ -1,0 +1,11 @@
+﻿l_german:
+ MY_REALM_WINDOW_CONTRIBUTION_TO_THEOCRATIC_LIEGE:0 "Zusätzlich hierzu liefert der [realm_priest|E] [taxes|E] und [levies|E] aus [Concept('church_property', 'Kirchenbesitztümern')|E] je nach [opinion|E] über den [Concept('liege', 'Lehnsherrn')|E]"
+ MRW_TT_NOT_RIGHTFUL_LIEGE:2 "@warning_icon!#X [levies|E] und [Concept('tax', 'Steuern')|E] sind verringert, da [Select_CString(Character.GetLiege.IsLocalPlayer, 'Ihr', Character.GetLiege.GetUIName)] nicht der [Concept('rightful_liege', 'Rechtmäßige Lehnsherr')|E] [Select_CString(Character.GetLiege.IsLocalPlayer, 'seid', 'ist')]#!\n\n[Select_CString(Character.IsLocalPlayer, 'Ihr', Character.GetUIName)] [Select_CString(Character.IsLocalPlayer, 'wollt', 'will')], dass der eigene [liege|E] [Character.GetPrimaryTitle.GetDeJureLiege.GetName] hält, da der [primary_title|E] ([Character.GetPrimaryTitle.GetName]) ein [Concept('de_jure', 'De-jure')|E]-Teil vom [Character.GetPrimaryTitle.GetDeJureLiege.GetRankConcept] ist."
+ VASSAL_CONTRIBUTION_NON_RIGHTFUL_LIEGE:0 "Nicht der [Concept('rightful_liege', 'Rechtmäßige Lehnsherr')|E]"
+ my_realm_window_tax_contribution_clan_government:0 "Die [taxes|E] von [vassals|E] einer [clan_government|E] hängen von ihrer Meinung über den [Concept('liege', 'Lehnsherrn')|E] ab"
+ my_realm_window_levy_contribution_clan_government:0 "Der Beitrag zu [Concept('levies', 'Aufgeboten')|E] von [vassals|E] einer [clan_government|E] hängt von ihrer Meinung über den [Concept('liege', 'Lehnsherrn')|E] ab"
+ my_realm_window_levy_contribution_tribal_government:0 "Der Beitrag zu [Concept('levies', 'Aufgeboten')|E] von [vassals|E] einer [tribal_government|E] hängt davon ab, welche [prestige_level|E] ihr [liege|E] hat"
+ MY_REALM_WINDOW_FROM_TO_LIEGE:0 "An [Concept('liege', 'Lehnsherrn')|E]"
+ VASSAL_CONTRACT_VASSAL_TITLE:2 "Änderung der Bande von\n#high [Select_CString(VassalContract.GetVassal.IsLocalPlayer, 'Euch', VassalContract.GetVassal.GetFirstNameNoTooltip)] – Haus [VassalContract.GetVassal.GetHouse.GetNameNoTooltip]\nHerrscher von [VassalContract.GetVassal.GetPrimaryTitle.GetNameNoTierNoTooltip]#!"
+ VASSAL_CONTRACT_OBLIGATION_VASSAL_OPINION:1 "Meinung des Vasallen: $OPINION|=V$ ($OPINION_CHANGE|+=$)"
+ VASSAL_CONTRACT_OBLIGATION_VASSAL_OPINION_CURRENT:0 "Meinung des Vasallen: $OPINION|=V$"

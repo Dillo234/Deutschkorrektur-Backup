@@ -1,0 +1,11 @@
+﻿l_german:
+ COW_TT_MY_COMMANDER:1 "#T Euer [commander|E]: [Select_CString(CHARACTER.IsLocalPlayer, 'Ihr', CHARACTER.GetUIName)]#!\n[martial_skill|E]: #V [CHARACTER.GetSkillWithLevel('martial')]#!"
+ COW_TT_SOLDIERS_LEFT:0 "#T [soldiers|E] [CombatWindow.GetLeftSideRelation]: #V [CombatWindow.GetLeftCombatSide.GetCurrentFightingMen|0]#!#!"
+ COW_TT_SOLDIERS_RIGHT:0 "#T [soldiers|E] [CombatWindow.GetRightSideRelation]: #V [CombatWindow.GetRightCombatSide.GetCurrentFightingMen|0]#!#!"
+ COW_TT_SOFT_CASUALTIES_LEFT:0 "#T [routed_soldiers|E] [CombatWindow.GetLeftSideRelation]: #V [CombatWindow.GetLeftCombatSide.GetSoftCasualties|0]#!#!"
+ COW_TT_SOFT_CASUALTIES_RIGHT:0 "#T [routed_soldiers|E] [CombatWindow.GetRightSideRelation]: #V [CombatWindow.GetRightCombatSide.GetSoftCasualties|0]#!#!"
+ COW_TT_HARD_CASUALTIES_SOLDIERS_LEFT:0 "#T [dead_soldiers|E] [CombatWindow.GetLeftSideRelation]: #V [CombatWindow.GetLeftCombatSide.GetHardCasualties|0]#!#!"
+ COW_TT_HARD_CASUALTIES_SOLDIERS_RIGHT:0 "#T [dead_soldiers|E] [CombatWindow.GetRightSideRelation]: #V [CombatWindow.GetRightCombatSide.GetHardCasualties|0]#!#!"
+ COW_TT_MY:1 "von Euch"
+ COW_TT_ALLY:0 "des Verbündeten"
+ COW_TT_ENEMY:0 "des Feindes"

@@ -1,0 +1,3 @@
+﻿l_german:
+ IT_HAS_DOMINANT_RULING_GENDER_TRIGGER:0 "Die [FAITH.GetAdjective|l]en [doctrines|E] erlauben es [Concept('ruler', 'Herrschern')|E], [CHARACTER.GetWomenMen|U] [titles] zu verleihen"
+ NOT_IT_HAS_DOMINANT_RULING_GENDER_TRIGGER:0 "Die [FAITH.GetAdjective|l]en [doctrines|E] erlauben es [Concept('ruler', 'Herrschern')|E] #bold nicht#!, [TARGET_CHARACTER.GetWomenMen] [titles] zu verleihen"

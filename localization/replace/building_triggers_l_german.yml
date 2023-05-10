@@ -1,0 +1,4 @@
+﻿l_german:
+ NOT_FREE_BUILDING_SLOTS_TRIGGER_THIRD:0 "[PROVINCE.GetName] hat #bold keine#! $NUM|V$ freien Gebäudeplätze"
+ NOT_NUM_BUILDINGS_TRIGGER_GLOBAL:0 "Hat #bold keine#! $NUM|V$ erbauten Gebäude"
+ NOT_HAS_HOLDING_DESC:0 "[province.GetName] enthält noch #bold kein#! [holding|E]"

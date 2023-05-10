@@ -1,0 +1,4 @@
+﻿l_german:
+ COUNCIL_TASK_FABRICATE_DOMAIN:0 "Das Fingieren von [Concept('claims', 'Ansprüchen')|E] innerhalb Eures Reiches gibt keinen [casus_belli|E], aber ermöglicht die Aberkennung von Titeln ohne [tyranny|E]"
+ COUNCIL_WINDOW_VIEW_LIEGE:0 "Rat vom [Concept('liege', 'Lehnsherrn')|E] anzeigen"
+ COUNCIL_TASK_EFFECTS:0 "#S Auswirkungen#!\n[ActiveCouncilTask.GetTaskEffect]"

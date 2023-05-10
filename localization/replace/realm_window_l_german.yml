@@ -1,0 +1,13 @@
+﻿l_german:
+ REALM_WINDOW_DIPLOMACY_TOOLTIP_WAR_ATTACKER:2 "#tooltip_subheading #attacker_color Angreifer#! gegen [Select_CString(DEFENDER.IsLocalPlayer, 'Euch', DEFENDER.GetUIName)] ([WAR.GetName|V])#!\nKriegsbeginn: [WAR.GetStartDate.GetString|V]"
+ REALM_WINDOW_DIPLOMACY_TOOLTIP_WAR_DEFENDER:2 "#tooltip_subheading #defender_color Verteidiger#! gegen [Select_CString(ATTACKER.IsLocalPlayer, 'Euch', ATTACKER.GetUIName)] ([WAR.GetName|V])#!\nKriegsbeginn: [WAR.GetStartDate.GetString|V]"
+ DOMAIN_LIMIT_GRACE_PERIOD_TOOLTIP:0 "[CHARACTER.GetContextTooltip('DOMAIN_LIMIT_GRACE_PERIOD_LIST', '$COUNT$ kürzlich erhaltene Besitztümer')] verursachen noch keine Abzüge."
+ DOMAIN_LIMIT_GRACE_PERIOD_SINGULAR_TOOLTIP:0 "[CHARACTER.GetContextTooltip('DOMAIN_LIMIT_GRACE_PERIOD_SINGULAR_LIST', '$COUNT$ kürzlich erhaltenes Besitztum')] verursacht noch keine Abzüge."
+ REALM_WINDOW_DIPLOMACY_TOOLTIP_ALLY:0 "#T [allied|E] mit [Select_CString(CHARACTER.IsLocalPlayer, 'Euch', CHARACTER.GetUIName)]#!"
+ REALM_WINDOW_DIPLOMACY_TOOLTIP_ALLY_REASON_DIPLOMACY_MARRIAGE:0 "Durch [marriage|E] von [Select_CString(CHARACTER.IsLocalPlayer, 'Euch', CHARACTER.GetUIName)|V] und [TARGET_CHARACTER.GetUIName|V]"
+ REALM_WINDOW_DIPLOMACY_TOOLTIP_TRUCE_RESULT:2 "\nWaffenstillstand unterschrieben nach $NAME|V$ (wurde von [Select_CString(CHARACTER.IsLocalPlayer, 'Euch', CHARACTER.GetShortUIName)|E] gewonnen)\n\n"
+ REALM_WINDOW_DIPLOMACY_TOOLTIP_RAID_ON:0 "#T Raubzug von [Select_CString(CHARACTER.IsLocalPlayer, 'Euch', CHARACTER.GetUIName)]#!\nFeindselig bis [DATE.GetString|V]"
+ REALM_WINDOW_DIPLOMACY_TOOLTIP_RAID_BY:0 "#T Überfällt [Select_CString(CHARACTER.IsLocalPlayer, 'Euch', CHARACTER.GetUIName)]#!\nFeindselig bis [DATE.GetString|V]"
+ REALM_WINDOW_DIPLOMACY_TOOLTIP_TRUCE_COMMON:2 "#T [truce|E] mit [Select_CString(CHARACTER.IsLocalPlayer, 'Euch', CHARACTER.GetUIName)]#!\n[Select_CString(CHARACTER.IsLocalPlayer, 'Euch', CHARACTER.GetShortUIName)] kann für [DATE.GetTimeDiffFromNow|V] kein [war|E] erklärt werden #weak ([DATE.GetStringShort])#!"
+ DOMAIN_LIMIT_NO_GRACE_PERIOD_TOOLTIP:0 "Effekte für eine um $COUNT$ überschrittene Schwelle an [Concept('holdings', 'Besitztümern')|E]:"
+ DOMAIN_LIMIT_NO_GRACE_PERIOD_SINGULAR_TOOLTIP:0 "Effekte für eine um $COUNT$ überschrittene Schwelle an [Concept('holdings', 'Besitztümern')|E]:"

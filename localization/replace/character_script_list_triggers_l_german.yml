@@ -1,0 +1,5 @@
+﻿l_german:
+ ANY_OF_CHARACTERS_VASSALS:1 "Ein beliebiger [vassal|E] von [Select_CString(CHARACTER.IsLocalPlayer, 'Euch', CHARACTER.GetShortUIName)]"
+ ALL_OF_CHARACTERS_VASSALS:1 "Alle [vassals|E] von [Select_CString(CHARACTER.IsLocalPlayer, 'Euch', CHARACTER.GetShortUIName)]:"
+ ANY_OF_CHARACTERS_VASSALS_PERCENT:0 "$PARAMETERS$ [vassals|E] von [Select_CString(CHARACTER.IsLocalPlayer, 'Euch', CHARACTER.GetShortUIName)]:"
+ ANY_OF_CHARACTERS_VASSALS_COUNT:0 "$PARAMETERS$ [vassals|E] von [Select_CString(CHARACTER.IsLocalPlayer, 'Euch', CHARACTER.GetShortUIName)]:"

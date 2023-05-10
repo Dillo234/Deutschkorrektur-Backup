@@ -1,0 +1,8 @@
+﻿l_german:
+ HYBRIDIZE_CULTURE_EXECUTE_LABEL:0 "Mischkultur erschaffen"
+ CULTURE_HYBRIDIZATION_COOLDOWN:1 "#weak Jeder Herrscher kann nur einmal eine [hybrid_culture|E] erschaffen. Die neue Kultur kann für [EmptyScope.ScriptValue('culture_hybrid_cooldown')|0] Jahre keine Mischkultur bilden.#!"
+ HYBRIDIZE_CULTURE_EXECUTE_TOOLTIP:0 "#T $HYBRIDIZE_CULTURE_EXECUTE_LABEL$#!\nBildet eine [hybrid_culture|E] aus der Kombination von Aspekten der [GetPlayer.GetCulture.GetNameNoTooltip|l]en und der [Culture.GetNameNoTooltip|l]en Kultur.\n\n[HybridizationWindow.GetHybridizeBlockers]"
+ 
+ CULTURE_CREATION_INNOVATIONS_TEXT:1 "Ihr werdet diese [Culture.GetName|l]e [innovation|E] entdecken:"
+ CULTURE_CREATION_INNOVATIONS_PLURAL_TEXT:0 "Ihr werdet diese [GetDataModelSize(HybridizationWindow.GetInnovationsGained)] [Culture.GetName|l]en [innovations|E] entdecken:"
+ CULTURE_CREATION_INNOVATIONS_PLURAL_INCLUDING_TEXT:0 "Ihr werdet [GetDataModelSize(HybridizationWindow.GetInnovationsGained)] [Culture.GetName|l]e [innovations|E] entdecken, unter anderem:"

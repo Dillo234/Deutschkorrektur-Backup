@@ -1,0 +1,5 @@
+﻿l_german:
+ COURT_GRANDEUR_PROGRESS_TOOLTIP_BASELINE_TIME:0 "#weak [GetTimeDifferenceWithDays(CourtGrandeurData.GetDaysUntilAtBase)] bis Grundwert erreicht#!"
+ COURT_GRANDEUR_PROGRESS_TOOLTIP_BASELINE_CHANGE:2 "#S $COURT_GRANDEUR_CHANGE_TOWARDS_BASE$:#! #underline [CourtGrandeurData.GetChangeTowardsBase|+=]#! pro Monat"
+ COURT_GRANDEUR_CHANGE_TOWARDS_BASE:1 "Veränderung Richtung Grundwert"
+ COURT_GRANDEUR_TOOLTIP_BELOW_EXPECTATION_IGNORE_GRACE:1 "@warning_icon!#X In [CourtGrandeurData.GetGracePeriodEndDate.GetTimeDiffFromNow] fällt dieser Hof auf [Subtract_int32(CourtGrandeurData.GetMinimumExpectedLevel,CourtGrandeurData.GetCurrentLevelIgnoreGrace)] [Select_CString(EqualTo_int32(Subtract_int32(CourtGrandeurData.GetMinimumExpectedLevel, CourtGrandeurData.GetCurrentLevelIgnoreGrace),'(int32)1'), 'Stufe','Stufen')] unter die erwartete [court_grandeur_level|E], was folgende Auswirkungen hat:\n#!$COURT_GRANDEUR_EXPECTATION_EFFECTS_IGNORE_GRACE$"

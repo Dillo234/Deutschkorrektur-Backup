@@ -1,0 +1,9 @@
+﻿l_german:
+ stewardship_domain_special.1301.steward_opening:0 "Mein Ratskämmerer [steward.GetTitledFirstName] setzt mich in Kenntnis,"
+ stewardship_domain_special.1500.every_county_summary:0 "Erhöht die [Concept('holding', 'Besitztums')|E]-Steuern #V 5 Jahre lang#!"
+ stewardship_domain.6014.b:1 "Die [county.GetTierAsNameNoTooltip] dient mir, und so werden es auch die Zünfte tun!"
+ 
+ stewardship_domain_special.1301.b:0 "Mein Ratskämmerer wird sich darum kümmern."
+ stewardship_domain_special.1319.desc:0 "Mein Ratskämmerer scheint beinahe schockiert. „Ich habe mir den Straßenbau in [project_county.GetNameNoTier] angesehen, und die Arbeiter aus der Bauernschaft sind so viel effektiver, als ich erwartet hätte … Sogar ich könnte das ein oder andere von ihnen lernen.“"
+ stewardship_domain_special.8031.aqueduct:0 "Ich sehe mit an, wie die letzten Steine in meinem neuen Aquädukt in [county.GetName] gelegt werden. Mein Ratskämmerer fängt die ersten Tropfen des fließenden Wassers mit einer Tasse auf und bietet sie mir an."
+ stewardship_domain_special.8022.desc:0 "Das Bewässerungsvorhaben in [county.GetNameNoTier] verlaufe nach Plan, meldet mir mein Ratskämmerer. Allerdings findet mein selbstgefälliges Grinsen ein jähes Ende, als er hinzufügt, dass die Bauernarbeiter in einer erschreckenden Geschwindigkeit versterben."

@@ -1,0 +1,6 @@
+﻿l_german:
+ CONSECRATE_BLOODLINE_NOT_ENOUGH_HOLY_SITES:1 "Ihr kontrolliert #bold keine#! der [CHARACTER.GetFaith.GetAdjective|l]en [Concept('holy_sites', 'Heiligen Stätten')|E]"
+ RECENT_HISTORY_TRIGGER:1 "Wurde unlängst $HISTORY|V$ (innerhalb $DURATION$)"
+ NOT_RECENT_HISTORY_TRIGGER:1 "Wurde #bold nicht#! unlängst $HISTORY|V$ (innerhalb $DURATION$)"
+ RECENT_HISTORY_TRIGGER_THIRD:1 "#V [TITLE.GetName]#! wurde unlängst $HISTORY|V$ (innerhalb $DURATION$)"
+ NOT_RECENT_HISTORY_TRIGGER_THIRD:1 "#V [TITLE.GetName]#! wurde #bold nicht#! unlängst $HISTORY|V$ (innerhalb $DURATION$)"

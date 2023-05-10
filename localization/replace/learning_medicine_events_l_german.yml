@@ -1,0 +1,2 @@
+﻿l_german:
+ learning_medicine_special.1004.desc:0 "[scoped_physician.GetTitledFirstName] war nicht sonderlich erfreut, als [ROOT.Char.Custom('DE_PRO_PER_S_3P_N')] von meinen Experimenten hörte. [ROOT.Char.Custom('DE_PRO_PER_S_3P_N')|U] weigerte sich, mich zu unterstützen, und tadelte mich, dass sich solcherlei Unterfangen nicht ziemten für [ROOT.Char.Custom('DE_ART_IND_A')] [ROOT.Char.GetTitleTierName]."

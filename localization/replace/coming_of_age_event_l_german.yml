@@ -1,0 +1,6 @@
+﻿l_german:
+ coming_of_age.1002.desc:0 "Ich bin stolz darauf, mein[educated_child.Custom('DE_END_PRO_S_A')] [educated_child.Custom('GetDaughterSon')] nicht mehr als Kind, sondern als Erwachsen[educated_child.Custom('DE_END_PRO_S_A')] zu sehen.\n\n[educated_child.Custom('GoodOrBadChildhoodTraitMatch')] [educated_child.Custom('DescribingEducationOutcome')]"
+ coming_of_age.0001.desc3:0 "habe ich meine Studien in Sachen [ROOT.Char.Custom('education_focus_child')] abgeschlossen!"
+ coming_of_age.0001.desc4:0 "habe ich nun ein Verständnis in Sachen [ROOT.Char.Custom('education_focus_child')], das das meiner Altersgenossen bei Weitem übersteigt."
+ coming_of_age.0001.desc2:0 "konnte ich meine Studien in Sachen [ROOT.Char.Custom('education_focus_child')] endlich abschließen!"
+

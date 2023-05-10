@@ -1,0 +1,4 @@
+﻿l_german:
+ BANNERS_VIEW_PROVINCE_TOOLTIP_HEADER_NO_REALM:0 "#D Außerhalb des Reichgebiets#!"
+ BANNERS_VIEW_PROVINCE_TOOLTIP_HEADER_NO_ACCESSIBLE:0 "#D Der [capital|E] des [Concept('vassal', 'Vasallen')|E], dem diese [barony|E] gehört, liegt außerhalb des Reichgebiets#!"
+ BANNER_CANT_REMOVE_NO_MERGE:0 "#T Sammelpunkt entfernen#!\n@warning_icon!#X Es gibt keinen [rally_point|E], der die [holdings|E] dieses Sammelpunkts übernehmen könnte#!"

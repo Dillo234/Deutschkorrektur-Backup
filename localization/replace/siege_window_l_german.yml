@@ -1,0 +1,4 @@
+﻿l_german:
+ SW_TT_MEN_BALANCE_ATTRITION_INFO:0 "Die $game_concept_besieging$e [army|E] erleidet jeden Monat $VALUE|V$ Verluste durch [attrition|E]"
+ SIEGE_WINDOW_END_DATE_SHORT:0 "Max. $TIME$ verbleibend"
+ SIEGE_WINDOW_END_DATE:2 "Belagerung dauert mit dem derzeitigen Fortschritt höchstens noch weitere $TIME$ ([$DATE.GetString|V$])"

@@ -1,0 +1,5 @@
+﻿l_german:
+ DYNASTY_VIEW_SHOW_LEGACY_EXPLANATION_NOT_HEAD:2 "$DYNASTY_VIEW_LEGACY_EXPLANATION$.\n#X Ihr seid nicht das [dynast|E]. Daher könnt Ihr keine [dynasty_prestige|E] einsetzen, um Vermächtnisse freizuschalten.#!"
+ DYNASTY_HOUSE_VIEW_PROGRESS_LABEL:0 "Nächstes [dynasty_perk|E]"
+ DYNASTY_TT_DYNAST:1 "[dynast|E]: [Select_CString(Dynasty.GetDynast.IsLocalPlayer, 'Ihr', Dynasty.GetDynast.GetUIName)|U]"
+ CUSTOMIZE_DYNASTY_HEADER:0 "[Dynasty.GetBaseNameNoTooltip|U]-Dynastie anpassen"

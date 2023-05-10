@@ -1,0 +1,3 @@
+﻿l_german:
+ court_maintenance.0010.desc.seeking_gainful_employment:0 "Meine Höflinge vergleichen ihre Umstände zunehmend mit denen angesehener Höfe wie etwa dem [great_cgv_court.GetPrimaryTitle.GetAdjectiveNoTooltip|l]en."
+ court_maintenance.0010.b.tooltip:0 "Einige Höflinge könnten Euren Hof in Richtung [great_cgv_court.GetPrimaryTitle.GetName] verlassen."

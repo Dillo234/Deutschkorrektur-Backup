@@ -1,0 +1,2 @@
+﻿l_german:
+ language_events.0001.desc:1 "Es ist schwer, all diese Sprachen im Kopf zu behalten, und oft vergesse ich sogar, welche Sprache ich gerade spreche!\n\nErst neulich habe ich mich versehentlich in einer verwirrenden Mischung aus [language_to_forget.GetLanguage.GetNameNoTooltip] und [ROOT.Char.GetCulture.GetLanguage.GetNameNoTooltip] vorgestellt … und ich habe es nicht einmal bemerkt, bis ich darauf hingewiesen wurde!\n\nVielleicht sollte ich [language_to_forget.GetLanguage.GetNameNoTooltip] einfach vergessen …"

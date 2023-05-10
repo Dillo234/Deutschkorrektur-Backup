@@ -1,0 +1,2 @@
+﻿l_german:
+ bastard_interaction.0007.desc:0 "[legitimized_bastard.GetTitledFirstName], [legitimized_basterd.Custom('DE_ART_DEF_S_A')] mein[parent.Custom('DE_END_PRO_S_N')] [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('parent'))] als Bastard in die Welt setzte, wurde von [actor.GetTitledFirstName] legitimiert, dem Oberhaupt [actor.Custom('DE_PRO_POS_S_3P')]es Hauses."

@@ -1,0 +1,3 @@
+﻿l_german:
+ yearly.0002.desc:0 "Nach einer tadellosen Dienstzeit als [councillor.Custom('CouncilPosition')] vertraute ich [councillor.GetTitledFirstName] so sehr, dass ich [councillor.Custom('DE_PRO_PER_S_3P_D')] erlaubte, sich völlig frei bei Hofe zu bewegen.\n\nAllerdings musste ich nun erfahren, dass [councillor.Custom('DE_PRO_PER_S_3P_N')] meine Gastfreundschaft ausnutzte, indem [councillor.Custom('DE_PRO_PER_S_3P_N')] Unzucht trieb. Das Opfer: mein[child.Custom('DE_END_PRO_S_N')] [ROOT.GetCharacter.Custom2('RelationToMeShort', SCOPE.sC('child'))] [child.GetFirstName]!"
+ yearly.0001.c:0 "Wir können beide profitieren, wenn wir unser Wissen in einen Topf werfen!"

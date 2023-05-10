@@ -1,0 +1,2 @@
+﻿l_german:
+ claim_throne_outcome.1001.desc:0 "Nach all der harten Arbeit ist es nun endlich an der Zeit, die Beweise zu präsentieren, die ich „zufällig gefunden“ habe: Ich bin der rechtmäßige Erbe von [target_title.GetName] aufgrund einer alten dynastischen Heirat.\n\n[target.GetTitledFirstName] wird nicht mehr sein als ein einfacher Thronanwärter, falls [target.Custom('DE_PRO_PER_S_3P_N')] sich mir in den Weg stellt!"

@@ -1,0 +1,3 @@
+﻿l_german:
+ friend_died_desc_1:3 "Mein[dead_relation.Custom('DE_END_PRO_S_N')] Freund[dead_relation.Custom('DE_END_NOU_S_GS_N')] [dead_relation.GetName] [dead_relation.GetDeathReasonHideKiller]"
+ rival_died_desc:1 "Mein[dead_relation.Custom('DE_END_PRO_S_N')] [Select_CString(dead_relation.IsFemale, 'Rivalin', 'Rivale')] [dead_relation.GetTitledFirstName] [dead_relation.GetDeathReasonHideKiller]"

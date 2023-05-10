@@ -1,0 +1,3 @@
+﻿l_german:
+ game_concept_inventory_artifact_desc:4 "Inventar-Artefakte sind [artifacts|E], die [Concept('character','Charaktere')|E] tragen oder bei sich führen, beispielsweise eine Waffe oder Krone.\n\nEs gibt keine Begrenzung für die Zahl der Artefakte, die ein Charakter haben kann, aber nur jene, die an einem zu ihnen passenden Platz ausgerüstet werden, entfalten ihre Wirkung.\n\nNeue Inventar-Artefakte erhält man von [Concept('inspired', 'Inspirierten')|E] [Concept('characters','Charakteren')|E] oder durch die Entscheidung „Artefakt in Auftrag geben“."
+ game_concept_repair_artifact_desc_DLC:0 "\n\nAlternativ könnt Ihr Euch entscheiden, das Artefakt [Concept('reforge','neuzuschmieden')|E]."

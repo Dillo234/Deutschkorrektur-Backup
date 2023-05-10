@@ -1,0 +1,2 @@
+﻿l_german:
+ HIRED_TROOPS_VIEW_HO_PATRON:0 "Lehnsspender: [Select_CString(HiredTroop.GetHolyOrderPatron.IsLocalPlayer, 'Ihr', HiredTroop.GetHolyOrderPatron.GetUIName)]"

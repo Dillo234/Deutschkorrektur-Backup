@@ -1,0 +1,21 @@
+﻿l_german:
+ HerHisCharacterIntroductionNoComma_herhis_relation_titledfirstname:0 "[second.Custom('DE_PRO_POS_S_3P')][ROOT.Char.Custom('DE_END_PRO_S_N')] [second.Custom2('RelationToMe', ROOT.Char)] [ROOT.Char.GetTitledFirstName]"
+ MyCharacterIntroductionNoComma_my_relation_titledfirstname:0 "mein[ROOT.Char.Custom('DE_END_PRO_S_N')] [second.Custom2('RelationToMe', ROOT.Char)] [ROOT.Char.GetTitledFirstName]"
+ relation_acquaintance_female:1 "Bekannte" # formerly #D debug
+ relation_acquaintance_male:1 "Bekannter" # formerly #D debug
+ YourCharacterIntroductionNoComma_your_relation_titledfirstname:0 "[ROOT.Char.Custom('DE_PRO_POS_P_2P_N')|U] [second.Custom2('RelationToMe', ROOT.Char)] [ROOT.Char.GetTitledFirstName]"
+ relation_antiquarian_female:0 "Hofantiquarin"
+ relation_antiquarian_male:0 "Hofantiquar"
+ relation_antiquarian_female_possessive:0 "der Hofantiquarin"
+ relation_antiquarian_male_possessive:0 "des Hofantiquars"
+ relation_master_of_hunt_female:0 "Oberjägermeisterin"
+ relation_master_of_hunt_male:0 "Oberjägermeister"
+ relation_master_of_hunt_female_possessive:0 "der Oberjägermeisterin"
+ relation_master_of_hunt_male_possessive:0 "des Oberjägermeisters"
+ relation_rival_male:0 "Rivale"
+ friend_desc:0 "Dies ist [Select_CString(CHARACTER.IsLocalPlayer, 'Euer', 'der')] [friend|E][Select_CString(CHARACTER.IsLocalPlayer, '', ' von ')][Select_CString(CHARACTER.IsLocalPlayer, '', CHARACTER.GetShortUINameNoTooltip)]"
+ best_friend_desc:0 "Dies ist [Select_CString(CHARACTER.IsLocalPlayer, 'Euer', 'der')] [best_friend|E][Select_CString(CHARACTER.IsLocalPlayer, '', ' von ')][Select_CString(CHARACTER.IsLocalPlayer, '', CHARACTER.GetShortUINameNoTooltip)]"
+ rival_desc:0 "Dies ist [Select_CString(CHARACTER.IsLocalPlayer, 'Euer', 'der')] [rival|E][Select_CString(CHARACTER.IsLocalPlayer, '', ' von ')][Select_CString(CHARACTER.IsLocalPlayer, '', CHARACTER.GetShortUINameNoTooltip)]"
+ nemesis_desc:0 "Dies ist [Select_CString(CHARACTER.IsLocalPlayer, 'Euer', 'der')] [nemesis|E][Select_CString(CHARACTER.IsLocalPlayer, '', ' von ')][Select_CString(CHARACTER.IsLocalPlayer, '', CHARACTER.GetShortUINameNoTooltip)]"
+ lover_desc:0 "Dies ist [Select_CString(CHARACTER.IsLocalPlayer, 'Eure', 'die')] [lover|E][Select_CString(CHARACTER.IsLocalPlayer, '', ' von ')][Select_CString(CHARACTER.IsLocalPlayer, '', CHARACTER.GetShortUINameNoTooltip)]"
+ soulmate_desc:0 "Dies ist [Select_CString(CHARACTER.IsLocalPlayer, 'Euer', 'der')] [soulmate|E][Select_CString(CHARACTER.IsLocalPlayer, '', ' von ')][Select_CString(CHARACTER.IsLocalPlayer, '', CHARACTER.GetShortUINameNoTooltip)]"

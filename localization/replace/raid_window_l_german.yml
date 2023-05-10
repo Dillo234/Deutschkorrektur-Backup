@@ -1,0 +1,4 @@
+﻿l_german:
+ RAID_ON_ME_TOOLTIP:0 "#T Raubzug#!\nRaubzug wird geführt von [Select_CString(Character.IsLocalPlayer, 'Euch', Character.GetShortUIName)].\nDie Feindseligkeiten enden in [GetPlayer.GetRaidHostilityEnd(Character.Self).GetTimeDiffFromNow].\n\n#I Zum Anzeigen des Charakters klicken#!"
+ RAID_BY_ME_TOOLTIP:0 "#T Raubzug#!\nEinfall in die Ländereien von [Character.GetShortUIName].\nDie Feindseligkeiten enden in [GetPlayer.GetRaidHostilityEnd(Character.Self).GetTimeDiffFromNow].\n\n#I Zum Anzeigen des Charakters klicken#!"
+ RW_TT_RAIDING_REALM_TOOLTIP:0 "#T Plünderer: [Character.GetPrimaryTitle.GetName|V]#!\n#I Zum Anzeigen klicken#!"
